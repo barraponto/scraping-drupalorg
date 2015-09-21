@@ -1,0 +1,820 @@
+author,title,patch,project,contribution_type,date,commit,issue
+barraponto,,,/project/ctools,commit,2015-08-19 07:46:00+00:00,http://drupalcode.org/project/ctools.git/commit/467d628,/node/2222513
+barraponto,,,/project/ctools,commit,2015-08-19 07:46:00+00:00,http://drupalcode.org/project/ctools.git/commit/152d1fa,/node/2222513
+barraponto,,,/project/bootstrap_library,commit,2015-06-17 16:27:00+00:00,http://drupalcode.org/project/bootstrap_library.git/commit/2ea8345,/node/2307267
+barraponto,,,/project/drustack,commit,2015-04-11 15:01:00+00:00,http://drupalcode.org/project/drustack.git/commit/fb9a515,/node/2222513
+barraponto,,,/project/radix,commit,2015-01-31 20:08:00+00:00,http://drupalcode.org/project/radix.git/commit/07dc3ad,/node/2201773
+barraponto,,,/project/field_group,commit,2014-06-04 21:35:00+00:00,http://drupalcode.org/project/field_group.git/commit/1c4f459,/node/2223269
+barraponto,,,/sandbox/webflo/2281183,commit,2014-06-04 21:35:00+00:00,http://drupalcode.org/sandbox/webflo/2281183.git/commit/1c4f459,/node/2223269
+barraponto,,,/project/panopoly_admin,commit,2014-04-12 17:30:00+00:00,http://drupalcode.org/project/panopoly_admin.git/commit/469d6d6,/node/2201695
+barraponto,,,/project/radix,commit,2014-03-22 16:10:00+00:00,http://drupalcode.org/project/radix.git/commit/aea09f9,/node/2223703
+barraponto,,,/project/radix,commit,2014-03-22 15:38:00+00:00,http://drupalcode.org/project/radix.git/commit/7bde9a0,/node/2223691
+barraponto,,,/project/radix,commit,2014-03-21 19:56:00+00:00,http://drupalcode.org/project/radix.git/commit/771a523,/node/2223337
+barraponto,,,/project/radix,commit,2014-02-27 03:50:00+00:00,http://drupalcode.org/project/radix.git/commit/1148ef9,/node/2206229
+barraponto,,,/project/radix,commit,2014-02-26 22:21:00+00:00,http://drupalcode.org/project/radix.git/commit/def16dc,/node/2204193
+barraponto,,,/project/radix,commit,2014-02-26 22:18:00+00:00,http://drupalcode.org/project/radix.git/commit/705edd1,/node/2190325
+barraponto,,,/project/radix,commit,2014-02-25 08:01:00+00:00,http://drupalcode.org/project/radix.git/commit/583a1b3,/node/2204117
+barraponto,,,/project/panopoly_core,commit,2014-02-15 12:50:00+00:00,http://drupalcode.org/project/panopoly_core.git/commit/fe9fc21,/node/2196661
+barraponto,,,/project/radix,commit,2014-02-07 20:56:00+00:00,http://drupalcode.org/project/radix.git/commit/30e031c,/node/2191033
+barraponto,,,/project/radix,commit,2014-02-07 15:27:00+00:00,http://drupalcode.org/project/radix.git/commit/b914583,/node/2191045
+barraponto,,,/project/radix,commit,2014-02-06 19:54:00+00:00,http://drupalcode.org/project/radix.git/commit/74f65fa,/node/2188883
+barraponto,,,/project/infrastructure,commit,2014-01-27 20:37:00+00:00,http://drupalcode.org/project/infrastructure.git/commit/1a5c3ee,/node/669910
+barraponto,,,/project/infrastructure,commit,2014-01-26 22:20:00+00:00,http://drupalcode.org/project/infrastructure.git/commit/311211d,/node/669910
+barraponto,,,/project/field_validation,commit,2014-01-26 07:46:00+00:00,http://drupalcode.org/project/field_validation.git/commit/a84d1d1,
+barraponto,,,/project/doabarrelroll,commit,2013-10-08 12:06:00+00:00,http://drupalcode.org/project/doabarrelroll.git/commit/2a48334,
+barraponto,,,/project/msnf,commit,2013-10-05 18:55:00+00:00,http://drupalcode.org/project/msnf.git/commit/7872af9,/node/2105507
+barraponto,,,/sandbox/primsi/2266343,commit,2013-10-05 18:55:00+00:00,http://drupalcode.org/sandbox/primsi/2266343.git/commit/7872af9,/node/2105507
+barraponto,Provide Field Group panes for entity edit forms,,/project/ctools,issue,2014-03-20 19:47:00+00:00,,https://www.drupal.org/node/2222513
+barraponto,,https://www.drupal.org/files/issues/fieldable_panels_panes-context_substitutions-2018329-8.patch,/project/fieldable_panels_panes,patch,2014-02-14 13:48:00+00:00,,https://www.drupal.org/node/2018329
+barraponto,,https://www.drupal.org/files/issues/ctools-field_group_form_panes.patch,/project/ctools,patch,2014-03-20 19:48:00+00:00,,https://www.drupal.org/node/2222513
+barraponto,,https://www.drupal.org/files/issues/fieldable_panels_panes-context_substitutions-2018329-10.patch,/project/fieldable_panels_panes,patch,2014-02-15 00:18:00+00:00,,https://www.drupal.org/node/2018329
+barraponto,,https://www.drupal.org/files/342316_option_add_attributes-74.patch,/project/drupal,patch,2012-11-22 01:44:00+00:00,,https://www.drupal.org/node/342316
+barraponto,,https://www.drupal.org/files/issues/menu_icons-hover_icons-1259302-40.patch,/project/menu_icons,patch,2015-03-01 00:06:00+00:00,,https://www.drupal.org/node/1259302
+barraponto,,https://www.drupal.org/files/views-exposed-forms-ajax-support-1183418-26.patch,/project/views,patch,2012-11-22 15:09:00+00:00,,https://www.drupal.org/node/1183418
+barraponto,,https://www.drupal.org/files/drupal-939462-86.patch,/project/drupal,patch,2012-04-18 05:42:00+00:00,,https://www.drupal.org/node/939462
+barraponto,,,/project/commerce_shipping,commit,2013-09-24 07:06:00+00:00,http://drupalcode.org/project/commerce_shipping.git/commit/c9d2901,/node/1992734
+barraponto,,https://www.drupal.org/files/views-exposed-forms-ajax-support-1183418-28.patch,/project/views,patch,2012-11-22 15:34:00+00:00,,https://www.drupal.org/node/1183418
+barraponto,,https://www.drupal.org/files/views-exposed-forms-ajax-support-1183418-30.patch,/project/views,patch,2012-11-22 16:04:00+00:00,,https://www.drupal.org/node/1183418
+barraponto,,https://www.drupal.org/files/views-exposed-forms-ajax-support-1183418-32.patch,/project/views,patch,2012-11-22 16:36:00+00:00,,https://www.drupal.org/node/1183418
+barraponto,,https://www.drupal.org/files/workbench_moderation_notes-1606704-5.patch,/project/workbench_moderation_notes,patch,2013-03-22 01:25:00+00:00,,https://www.drupal.org/node/1606704
+barraponto,,https://www.drupal.org/files/drupal-939462-86-88.interdiff.txt,/project/drupal,patch,2012-04-18 06:50:00+00:00,,https://www.drupal.org/node/939462
+barraponto,,,/sandbox/webflo/2281183,commit,2013-08-27 21:08:00+00:00,http://drupalcode.org/sandbox/webflo/2281183.git/commit/3496288,/node/1963740
+barraponto,,,/project/field_group,commit,2013-08-27 21:08:00+00:00,http://drupalcode.org/project/field_group.git/commit/3496288,/node/1963740
+barraponto,,,/project/profile2_regpath,commit,2013-07-30 21:46:00+00:00,http://drupalcode.org/project/profile2_regpath.git/commit/7193c1a,/node/1340068
+barraponto,,,/project/profile2_regpath,commit,2013-07-30 21:25:00+00:00,http://drupalcode.org/project/profile2_regpath.git/commit/ff9c482,/node/1340068
+barraponto,,https://www.drupal.org/files/issues/views-exposed_form_ajax_support-1183418-106.patch,/project/views,patch,2015-09-18 02:56:00+00:00,,https://www.drupal.org/node/1183418
+barraponto,,https://www.drupal.org/files/905914-redirect-reenable-global-redirections-97.patch,/project/redirect,patch,2012-08-18 14:17:00+00:00,,https://www.drupal.org/node/905914
+barraponto,,,/project/commerce_cielo,commit,2013-06-08 01:29:00+00:00,http://drupalcode.org/project/commerce_cielo.git/commit/5f25a72,/node/1672810
+barraponto,,,/project/kalatheme,commit,2013-05-30 00:45:00+00:00,http://drupalcode.org/project/kalatheme.git/commit/801fe00,/node/1908042
+barraponto,,,/project/kalatheme,commit,2013-05-29 23:41:00+00:00,http://drupalcode.org/project/kalatheme.git/commit/e452ff2,/node/1935440
+barraponto,,,/project/panopoly_admin,commit,2013-05-20 05:25:00+00:00,http://drupalcode.org/project/panopoly_admin.git/commit/a0e9881,/node/1980506
+barraponto,Use input group component for Input Format Widget,,/project/radix,issue,2014-03-21 20:40:00+00:00,,https://www.drupal.org/node/2223365
+barraponto,Do not validate forms when 'previous' button is clicked,,/project/msnf,issue,2013-10-05 16:57:00+00:00,,https://www.drupal.org/node/2105507
+barraponto,,https://www.drupal.org/files/msnf-do-not-validate-forms-2105507-1.patch,/project/msnf,patch,2013-10-05 17:08:00+00:00,,https://www.drupal.org/node/2105507
+barraponto,,https://www.drupal.org/files/issues/zen-zen_preprocess-called-too-early_0.patch,/project/zen,patch,2011-09-04 13:43:00+00:00,,https://www.drupal.org/node/1168324
+barraponto,Features creation needs work,,/project/radix,issue,2014-02-08 03:26:00+00:00,,https://www.drupal.org/node/2191577
+barraponto,Micro optimization in text_field_load,,/project/drupal,issue,2012-04-14 18:23:00+00:00,,https://www.drupal.org/node/1533276
+barraponto,,https://www.drupal.org/files/1533276-core-micro-optimization-text-field-load.patch,/project/drupal,patch,2012-04-14 18:25:00+00:00,,https://www.drupal.org/node/1533276
+barraponto,Choose composed_field components to display in views,,/project/composed_field,issue,2014-03-24 18:30:00+00:00,,https://www.drupal.org/node/2224943
+barraponto,,,/sandbox/webflo/2039805,commit,2013-04-08 20:30:00+00:00,http://drupalcode.org/sandbox/webflo/2039805.git/commit/b9120a1,/node/1964892
+barraponto,,,/project/markdown,commit,2013-04-08 20:30:00+00:00,http://drupalcode.org/project/markdown.git/commit/b9120a1,/node/1964892
+barraponto,,,/project/markdown,commit,2013-04-08 19:58:00+00:00,http://drupalcode.org/project/markdown.git/commit/4d6815a,/node/1964712
+barraponto,,,/sandbox/webflo/2039805,commit,2013-04-08 19:58:00+00:00,http://drupalcode.org/sandbox/webflo/2039805.git/commit/4d6815a,/node/1964712
+barraponto,,https://www.drupal.org/files/date-increment-1355256-19.patch,/project/date,patch,2012-07-16 23:55:00+00:00,,https://www.drupal.org/node/1355256
+barraponto,Add 'Help' region to Radix,,/project/radix,issue,2015-06-12 15:01:00+00:00,,https://www.drupal.org/node/2505249
+barraponto,,https://www.drupal.org/files/issues/radix-bootstrap_text_format_as_input_group.patch,/project/radix,patch,2014-03-26 22:07:00+00:00,,https://www.drupal.org/node/2223365
+barraponto,,https://www.drupal.org/files/issues/radix-textinput.png,/project/radix,patch,2014-04-03 23:44:00+00:00,,https://www.drupal.org/node/2223365
+barraponto,,https://www.drupal.org/files/issues/composed_field-choose_composed_fields_components_to_display_in_views-2224943.patch,/project/composed_field,patch,2014-03-24 18:38:00+00:00,,https://www.drupal.org/node/2224943
+barraponto,,https://www.drupal.org/files/issues/composed_field-choose_composed_fields_components_to_display_in_views-2224943-2.patch,/project/composed_field,patch,2014-03-24 18:40:00+00:00,,https://www.drupal.org/node/2224943
+barraponto,,,/project/feeds,commit,2012-12-26 17:51:00+00:00,http://drupalcode.org/project/feeds.git/commit/cee5987,/node/1874322
+barraponto,,,/project/flag,commit,2012-12-09 19:20:00+00:00,http://drupalcode.org/project/flag.git/commit/a97abff,/node/1817644
+barraponto,,,/project/flag,commit,2012-12-09 09:58:00+00:00,http://drupalcode.org/project/flag.git/commit/de32b00,/node/1817644
+barraponto,,,/project/flag,commit,2012-12-09 09:58:00+00:00,http://drupalcode.org/project/flag.git/commit/1b0586e,/node/1817644
+barraponto,,https://www.drupal.org/files/issues/date-set_default_increment_value_for_date_text_widgets-1355256-40.patch,/project/date,patch,2014-07-05 01:25:00+00:00,,https://www.drupal.org/node/1355256
+barraponto,Drush Radix should work without enabling Radix theme,,/project/radix,issue,2014-03-22 16:09:00+00:00,,https://www.drupal.org/node/2223703
+barraponto,,https://www.drupal.org/files/feeds_tamper-1358578-11-multi-keyword-filter.patch,/project/feeds_tamper,patch,2012-12-24 12:26:00+00:00,,https://www.drupal.org/node/1358578
+barraponto,Menu doesn't show up in admin/config/development,,/project/bootstrap_library,issue,2014-07-22 02:31:00+00:00,,https://www.drupal.org/node/2307267
+barraponto,,https://www.drupal.org/files/issues/bootstrap_library-jquery_version_check-2244553-1.patch,/project/bootstrap_library,patch,2014-07-22 02:58:00+00:00,,https://www.drupal.org/node/2244553
+barraponto,,https://www.drupal.org/files/issues/radix-textinput.png,/project/radix,patch,2014-04-03 23:43:00+00:00,,https://www.drupal.org/node/2223365
+barraponto,,https://www.drupal.org/files/issues/radix-textformat.png,/project/radix,patch,2014-04-03 23:44:00+00:00,,https://www.drupal.org/node/2223365
+barraponto,,https://www.drupal.org/files/issues/composed_field-choose_composed_fields_components_to_display_in_views-2224943-3.patch,/project/composed_field,patch,2014-03-24 21:56:00+00:00,,https://www.drupal.org/node/2224943
+barraponto,,,/project/fb_social_links,commit,2012-10-22 18:05:00+00:00,http://drupalcode.org/project/fb_social_links.git/commit/832a82a,
+barraponto,,https://www.drupal.org/files/issues/bootstrap_library-configuration_menu_item_misdeclared_as_local_task-2307267-1.patch,/project/bootstrap_library,patch,2014-07-22 02:35:00+00:00,,https://www.drupal.org/node/2307267
+barraponto,,https://www.drupal.org/files/phone-feeds-support-1361084-19.patch,/project/phone,patch,2012-11-21 17:26:00+00:00,,https://www.drupal.org/node/1361084
+barraponto,,,/project/flag_ajax_confirm,commit,2012-10-19 01:40:00+00:00,http://drupalcode.org/project/flag_ajax_confirm.git/commit/9ed6b83,
+barraponto,,,/project/bean,commit,2012-09-11 20:50:00+00:00,http://drupalcode.org/project/bean.git/commit/fb86d1c,/node/1611676
+barraponto,,,/project/bean,commit,2012-08-25 10:26:00+00:00,http://drupalcode.org/project/bean.git/commit/6c49e1d,/node/1753406
+barraponto,,,/project/ccl,commit,2012-08-21 18:43:00+00:00,http://drupalcode.org/project/ccl.git/commit/fcf9b17,/node/1630556
+barraponto,,https://www.drupal.org/files/panopoly_pages-panelizer_default_permissions-1837312-26.patch,/project/panopoly,patch,2013-08-27 04:53:00+00:00,,https://www.drupal.org/node/1837312
+barraponto,,https://www.drupal.org/files/hide-empty-field-collections-1276258-33_0.patch,/project/field_collection,patch,2012-09-25 13:42:00+00:00,,https://www.drupal.org/node/1276258
+barraponto,Detect loaded library and provide proper support,,/project/markdown,issue,2013-04-08 20:08:00+00:00,,https://www.drupal.org/node/1964892
+barraponto,Add permissions to Landing Pages,,/project/panopoly,issue,2014-03-13 04:28:00+00:00,,https://www.drupal.org/node/2216791
+barraponto,Conflict with Zen 2.1,,/project/toolbar,issue,2011-08-14 02:40:00+00:00,,https://www.drupal.org/node/1248670
+barraponto,,https://www.drupal.org/files/issues/radix-responsive_ctools_categories.patch,/project/radix,patch,2014-02-25 20:49:00+00:00,,https://www.drupal.org/node/2190325
+barraponto,,,/project/bean_examples,commit,2012-07-04 01:50:00+00:00,http://drupalcode.org/project/bean_examples.git/commit/940b631,
+barraponto,,,/project/nodeformcols,commit,2012-06-12 19:09:00+00:00,http://drupalcode.org/project/nodeformcols.git/commit/10933dd,/node/1287452
+barraponto,,,/project/bean,commit,2012-05-23 14:43:00+00:00,http://drupalcode.org/project/bean.git/commit/4ad9a5a,/node/1535444
+barraponto,,https://www.drupal.org/files/field_collection-completely-hide-empty-1276258-64.patch,/project/field_collection,patch,2013-10-11 11:38:00+00:00,,https://www.drupal.org/node/1276258
+barraponto,,https://www.drupal.org/files/issues/1248670-toolbar-zen-conflict-1.patch,/project/toolbar,patch,2011-08-14 02:47:00+00:00,,https://www.drupal.org/node/1248670
+barraponto,,https://www.drupal.org/files/issues/1248670-toolbar-zen-conflict-2.patch,/project/toolbar,patch,2011-08-15 17:28:00+00:00,,https://www.drupal.org/node/1248670
+barraponto,,https://www.drupal.org/files/issues/radix-iterate_over_link_elements-2201773-4.patch,/project/radix,patch,2014-03-21 20:08:00+00:00,,https://www.drupal.org/node/2201773
+barraponto,,https://www.drupal.org/files/form_builder-select_or_other_integration-1575064-19.patch,/project/form_builder,patch,2013-04-16 14:20:00+00:00,,https://www.drupal.org/node/1575064
+barraponto,,https://www.drupal.org/files/pjax-updated_pjax_api-1846300-6.patch,/project/pjax,patch,2013-07-30 00:51:00+00:00,,https://www.drupal.org/node/1846300
+barraponto,Wildcards in body classes,,/project/drupal,issue,2011-08-08 15:19:00+00:00,,https://www.drupal.org/node/1242908
+barraponto,,https://www.drupal.org/files/pjax-updated_pjax_api-1846300-6_0.patch,/project/pjax,patch,2013-07-30 00:58:00+00:00,,https://www.drupal.org/node/1846300
+barraponto,,https://www.drupal.org/files/issues/1242908-remove-wildcard-suggestions-from-body-classes-4.patch,/project/drupal,patch,2011-08-08 19:34:00+00:00,,https://www.drupal.org/node/1242908
+barraponto,,https://www.drupal.org/files/issues/1242908-remove-wildcard-suggestions-from-body-classes-6.patch,/project/drupal,patch,2011-08-09 16:21:00+00:00,,https://www.drupal.org/node/1242908
+barraponto,,https://www.drupal.org/files/wildcards-in-body-classes-1242908-16.patch,/project/drupal,patch,2012-08-19 17:17:00+00:00,,https://www.drupal.org/node/1242908
+barraponto,,,/sandbox/barraponto/1537420,commit,2012-04-17 21:05:00+00:00,http://drupalcode.org/sandbox/barraponto/1537420.git/commit/660dfdc,
+barraponto,,,/sandbox/barraponto/1537420,commit,2012-04-17 01:01:00+00:00,http://drupalcode.org/sandbox/barraponto/1537420.git/commit/105bcd5,
+barraponto,,,/sandbox/barraponto/1537420,commit,2012-04-17 01:00:00+00:00,http://drupalcode.org/sandbox/barraponto/1537420.git/commit/dd36767,
+barraponto,,,/project/oauth,commit,2012-04-13 23:58:00+00:00,http://drupalcode.org/project/oauth.git/commit/8e2d9d8,/node/1529166
+barraponto,,https://www.drupal.org/files/webform-select_or_other_integration_issues-1337514-18.patch,/project/webform,patch,2013-04-16 14:38:00+00:00,,https://www.drupal.org/node/1337514
+barraponto,,https://www.drupal.org/files/1054604-disqus-proper-locale-support-12.patch,/project/disqus,patch,2012-03-22 20:17:00+00:00,,https://www.drupal.org/node/1054604
+barraponto,,,/sandbox/barraponto/1525732,commit,2012-04-12 02:18:00+00:00,http://drupalcode.org/sandbox/barraponto/1525732.git/commit/854443e,
+barraponto,,,/sandbox/barraponto/1525732,commit,2012-04-10 17:25:00+00:00,http://drupalcode.org/sandbox/barraponto/1525732.git/commit/010c9b7,
+barraponto,,,/sandbox/barraponto/1525732,commit,2012-04-10 17:25:00+00:00,http://drupalcode.org/sandbox/barraponto/1525732.git/commit/e762113,
+barraponto,,,/sandbox/barraponto/1525732,commit,2012-04-10 17:21:00+00:00,http://drupalcode.org/sandbox/barraponto/1525732.git/commit/0d0d699,
+barraponto,,https://www.drupal.org/files/1054604-disqus-proper-locale-support-13.patch,/project/disqus,patch,2012-03-22 23:45:00+00:00,,https://www.drupal.org/node/1054604
+barraponto,,,/sandbox/barraponto/1525732,commit,2012-04-10 17:21:00+00:00,http://drupalcode.org/sandbox/barraponto/1525732.git/commit/e958663,/node/039
+barraponto,,,/sandbox/barraponto/1525732,commit,2012-04-10 17:20:00+00:00,http://drupalcode.org/sandbox/barraponto/1525732.git/commit/d074238,
+barraponto,,,/sandbox/barraponto/1525732,commit,2012-04-10 16:33:00+00:00,http://drupalcode.org/sandbox/barraponto/1525732.git/commit/c3767d0,
+barraponto,,,/sandbox/barraponto/1525732,commit,2012-04-10 15:52:00+00:00,http://drupalcode.org/sandbox/barraponto/1525732.git/commit/6b1718e,
+barraponto,,https://www.drupal.org/files/issues/Screenshot%20from%202014-03-10%2015%3A08%3A45.png,/project/radix,patch,2014-03-10 18:24:00+00:00,,https://www.drupal.org/node/2190535
+barraponto,File and Image fields don't preview properly,,/project/panopoly,issue,2014-03-13 21:14:00+00:00,,https://www.drupal.org/node/2217469
+barraponto,,https://www.drupal.org/files/drupal-fix_pdoexception_grant_permissions-737816-36-do-not-test.patch,/project/drupal,patch,2013-04-11 07:24:00+00:00,,https://www.drupal.org/node/737816
+barraponto,Breaks non-layouted pages,,/project/radix_layouts,issue,2014-02-27 00:44:00+00:00,,https://www.drupal.org/node/2206167
+barraponto,,,/sandbox/barraponto/1525732,commit,2012-04-10 15:51:00+00:00,http://drupalcode.org/sandbox/barraponto/1525732.git/commit/53a4e57,
+barraponto,,,/sandbox/barraponto/1525732,commit,2012-04-10 15:51:00+00:00,http://drupalcode.org/sandbox/barraponto/1525732.git/commit/21435ef,
+barraponto,,https://www.drupal.org/files/issues/radix-radix_layouts_css-2206167-3.patch,/project/radix_layouts,patch,2014-02-27 19:08:00+00:00,,https://www.drupal.org/node/2206167
+barraponto,,https://www.drupal.org/files/issues/radix-radix_layouts_css-2206167-6.patch,/project/radix_layouts,patch,2014-03-12 21:53:00+00:00,,https://www.drupal.org/node/2206167
+barraponto,,https://www.drupal.org/files/fb_social-add-openssl-to-requirements-1605920.patch,/project/fb_social,patch,2012-10-22 04:47:00+00:00,,https://www.drupal.org/node/1605920
+barraponto,,,/project/ds,commit,2012-04-07 14:30:00+00:00,http://drupalcode.org/project/ds.git/commit/0e6e88f,/node/1276780
+barraponto,,,/project/ds,commit,2012-04-07 14:16:00+00:00,http://drupalcode.org/project/ds.git/commit/4a91151,/node/1276780
+barraponto,,,/sandbox/barraponto/1140004,commit,2012-03-22 06:25:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/0276b35,
+barraponto,,,/sandbox/barraponto/1140004,commit,2012-03-22 06:14:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/7f75ead,
+barraponto,Let themers override the IPE rendering,,/project/panels,issue,2014-07-19 02:26:00+00:00,,https://www.drupal.org/node/2306017
+barraponto,,https://www.drupal.org/files/issues/panels-panels_ipe_render_output_is_a_pain_to_override-2306017-1.patch,/project/panels,patch,2014-07-19 02:28:00+00:00,,https://www.drupal.org/node/2306017
+barraponto,,https://www.drupal.org/files/drupal-update-css-tabs-1825446-13.patch,/project/drupal,patch,2012-10-28 23:32:00+00:00,,https://www.drupal.org/node/1825446
+barraponto,,,/sandbox/barraponto/1140004,commit,2012-03-22 06:04:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/9e588d8,
+barraponto,,,/sandbox/barraponto/1140004,commit,2012-03-22 05:54:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/72550c0,
+barraponto,,,/sandbox/barraponto/1140004,commit,2012-03-22 05:50:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/5d4a901,
+barraponto,,,/sandbox/barraponto/1140004,commit,2012-03-22 05:37:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/e570b1d,
+barraponto,,,/sandbox/barraponto/1140004,commit,2012-03-22 05:34:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/2a60a5f,
+barraponto,,,/sandbox/barraponto/1140004,commit,2012-03-22 05:33:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/7e1f389,
+barraponto,,,/sandbox/barraponto/1140004,commit,2012-03-22 05:25:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/d0f2e48,
+barraponto,,https://www.drupal.org/files/issues/drupal-rename_layout_classes-1054616-24.patch,/project/drupal,patch,2014-02-09 22:29:00+00:00,,https://www.drupal.org/node/1912610
+barraponto,,https://www.drupal.org/files/ban-1944910-20.patch,/project/drupal,patch,2013-05-23 12:52:00+00:00,,https://www.drupal.org/node/1944910
+barraponto,"[policy, no patch] Use layout- prefixes instead of l- in CSS Coding Standards",,/project/drupal,issue,2014-02-28 14:15:00+00:00,,https://www.drupal.org/node/2207647
+barraponto,,https://www.drupal.org/files/ban-1944910-20_0.patch,/project/drupal,patch,2013-05-23 12:55:00+00:00,,https://www.drupal.org/node/1944910
+barraponto,,https://www.drupal.org/files/issues/Screenshot%20from%202014-03-14%2004%3A02%3A45.png,/project/drupal,patch,2014-03-14 07:05:00+00:00,,https://www.drupal.org/node/2217669
+barraponto,Coder Review,,/project/inline_registration,issue,2014-01-02 23:59:00+00:00,,https://www.drupal.org/node/2166139
+barraponto,,https://www.drupal.org/files/issues/inline_registration-coder_review-2166139-1.patch,/project/inline_registration,patch,2014-01-03 00:02:00+00:00,,https://www.drupal.org/node/2166139
+barraponto,,https://www.drupal.org/files/drupal-remove_the_http_equivcleartype-1717090-24.patch,/project/drupal,patch,2013-07-31 02:33:00+00:00,,https://www.drupal.org/node/1717090
+barraponto,Move tabledrag CSS into system.admin.css,,/project/drupal,issue,2012-08-24 09:22:00+00:00,,https://www.drupal.org/node/1750134
+barraponto,Spam Report,,/project/issues/webmasters,issue,2014-08-28 12:44:00+00:00,,https://www.drupal.org/node/2329153
+barraponto,,https://www.drupal.org/files/issues/drupal-default_taxonomyautocompletewidget_value-2193237-10.patch,/project/drupal,patch,2014-02-14 03:40:00+00:00,,https://www.drupal.org/node/2193237
+barraponto,,https://www.drupal.org/files/drush-iq-provide-drush-option-to-randomize-1560078-4.patch,/project/devel,patch,2013-08-28 18:11:00+00:00,,https://www.drupal.org/node/1560078
+barraponto,,https://www.drupal.org/files/devel-provide-drush-option-1560078-5.patch,/project/devel,patch,2013-08-30 17:35:00+00:00,,https://www.drupal.org/node/1560078
+barraponto,,,/sandbox/barraponto/1140004,commit,2012-03-22 05:19:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/916de16,
+barraponto,,,/sandbox/barraponto/1140004,commit,2012-03-22 05:09:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/a2396bc,
+barraponto,,,/sandbox/barraponto/1140004,commit,2012-03-22 04:57:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/7153b5a,
+barraponto,,,/sandbox/barraponto/1140004,commit,2012-03-22 04:45:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/b1db23d,
+barraponto,,,/sandbox/barraponto/1140004,commit,2012-03-22 04:35:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/d367ddb,
+barraponto,,,/sandbox/barraponto/1140004,commit,2012-03-22 03:59:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/e0b1b1d,
+barraponto,,,/sandbox/barraponto/1140004,commit,2012-03-22 03:58:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/0d8b13c,
+barraponto,,,/sandbox/barraponto/1477800,commit,2012-03-15 02:19:00+00:00,http://drupalcode.org/sandbox/barraponto/1477800.git/commit/1e47c8d,
+barraponto,,,/sandbox/barraponto/1477800,commit,2012-03-15 02:19:00+00:00,http://drupalcode.org/sandbox/barraponto/1477800.git/commit/cbe6131,
+barraponto,,,/sandbox/barraponto/1477800,commit,2012-03-15 00:55:00+00:00,http://drupalcode.org/sandbox/barraponto/1477800.git/commit/a6224b7,
+barraponto,,,/sandbox/barraponto/1477800,commit,2012-03-15 00:22:00+00:00,http://drupalcode.org/sandbox/barraponto/1477800.git/commit/95cb494,
+barraponto,,,/sandbox/barraponto/1477800,commit,2012-03-15 00:09:00+00:00,http://drupalcode.org/sandbox/barraponto/1477800.git/commit/58dd8c6,
+barraponto,,,/sandbox/barraponto/1477800,commit,2012-03-14 22:56:00+00:00,http://drupalcode.org/sandbox/barraponto/1477800.git/commit/d1e586b,
+barraponto,,,/sandbox/barraponto/1477800,commit,2012-03-14 22:56:00+00:00,http://drupalcode.org/sandbox/barraponto/1477800.git/commit/cf862cf,
+barraponto,,,/sandbox/barraponto/1477800,commit,2012-03-14 22:56:00+00:00,http://drupalcode.org/sandbox/barraponto/1477800.git/commit/6313a90,
+barraponto,,,/sandbox/barraponto/1477800,commit,2012-03-14 22:56:00+00:00,http://drupalcode.org/sandbox/barraponto/1477800.git/commit/8a0029c,
+barraponto,,,/sandbox/barraponto/1477800,commit,2012-03-14 22:56:00+00:00,http://drupalcode.org/sandbox/barraponto/1477800.git/commit/37c6cc3,
+barraponto,,,/sandbox/barraponto/1477800,commit,2012-03-14 22:56:00+00:00,http://drupalcode.org/sandbox/barraponto/1477800.git/commit/f5e189a,
+barraponto,,,/sandbox/barraponto/1477800,commit,2012-03-14 22:56:00+00:00,http://drupalcode.org/sandbox/barraponto/1477800.git/commit/f5779a2,
+barraponto,,,/sandbox/barraponto/1477800,commit,2012-03-14 22:56:00+00:00,http://drupalcode.org/sandbox/barraponto/1477800.git/commit/7771c22,
+barraponto,,https://www.drupal.org/files/drupal-153313-form-data-back-button-77.patch,/project/drupal,patch,2012-11-16 13:34:00+00:00,,https://www.drupal.org/node/153313
+barraponto,,,/sandbox/barraponto/1477800,commit,2012-03-14 22:56:00+00:00,http://drupalcode.org/sandbox/barraponto/1477800.git/commit/70683c2,
+barraponto,,,/sandbox/barraponto/1477800,commit,2012-03-14 22:56:00+00:00,http://drupalcode.org/sandbox/barraponto/1477800.git/commit/40fcc52,
+barraponto,,,/sandbox/barraponto/1477800,commit,2012-03-14 22:56:00+00:00,http://drupalcode.org/sandbox/barraponto/1477800.git/commit/04c8010,
+barraponto,,,/sandbox/barraponto/1477800,commit,2012-03-14 22:56:00+00:00,http://drupalcode.org/sandbox/barraponto/1477800.git/commit/0e487e4,
+barraponto,,,/sandbox/barraponto/1477800,commit,2012-03-14 22:56:00+00:00,http://drupalcode.org/sandbox/barraponto/1477800.git/commit/073630d,
+barraponto,,https://www.drupal.org/files/csslint-color-1662958.patch,/project/drupal,patch,2012-08-24 10:40:00+00:00,,https://www.drupal.org/node/1662958
+barraponto,,https://www.drupal.org/files/357331-primary_term-duplicate-warnings-on-node-save-8.patch,/project/drupal,patch,2012-08-24 14:34:00+00:00,,https://www.drupal.org/node/1662968
+barraponto,,https://www.drupal.org/files/csslint-dblog-1662974-12.patch,/project/drupal,patch,2012-08-24 15:34:00+00:00,,https://www.drupal.org/node/1662974
+barraponto,,https://www.drupal.org/files/drupal-csslint-field_ui-1662986-8.patch,/project/drupal,patch,2012-10-29 11:56:00+00:00,,https://www.drupal.org/node/1662986
+barraponto,,https://www.drupal.org/files/drupal-csslint-help-1663042-5.patch,/project/drupal,patch,2012-10-29 12:13:00+00:00,,https://www.drupal.org/node/1663042
+barraponto,,https://www.drupal.org/files/drupal-csslint-image-1663044-2.patch,/project/drupal,patch,2012-10-30 06:23:00+00:00,,https://www.drupal.org/node/1663044
+barraponto,,https://www.drupal.org/files/drupal-csslint-locale-1663130-14.patch,/project/drupal,patch,2012-10-30 06:36:00+00:00,,https://www.drupal.org/node/1663130
+barraponto,,https://www.drupal.org/files/screenshot_112.png,/project/drupal,patch,2012-08-24 14:47:00+00:00,,https://www.drupal.org/node/1662968
+barraponto,,https://www.drupal.org/files/csslint-contextual-1662968-9.patch,/project/drupal,patch,2012-08-24 14:48:00+00:00,,https://www.drupal.org/node/1662968
+barraponto,,https://www.drupal.org/files/drupal-csslint-dblog-1662974-17.patch,/project/drupal,patch,2012-10-28 01:22:00+00:00,,https://www.drupal.org/node/1662974
+barraponto,,https://www.drupal.org/files/drupal-csslint-contextual-1662968-18.patch,/project/drupal,patch,2012-10-30 11:45:00+00:00,,https://www.drupal.org/node/1662968
+barraponto,,,/sandbox/barraponto/1477800,commit,2012-03-14 22:56:00+00:00,http://drupalcode.org/sandbox/barraponto/1477800.git/commit/b8984ae,
+barraponto,,https://www.drupal.org/files/drupal-csslint-dblog-1662974-18.patch,/project/drupal,patch,2012-10-28 01:23:00+00:00,,https://www.drupal.org/node/1662974
+barraponto,,,/sandbox/barraponto/1477800,commit,2012-03-12 05:15:00+00:00,http://drupalcode.org/sandbox/barraponto/1477800.git/commit/d2658cb,
+barraponto,,,/sandbox/barraponto/1477800,commit,2012-03-12 04:54:00+00:00,http://drupalcode.org/sandbox/barraponto/1477800.git/commit/4bef0c3,
+barraponto,,,/sandbox/barraponto/1477800,commit,2012-03-12 04:15:00+00:00,http://drupalcode.org/sandbox/barraponto/1477800.git/commit/23b2ff1,
+barraponto,,,/sandbox/barraponto/1477800,commit,2012-03-12 03:55:00+00:00,http://drupalcode.org/sandbox/barraponto/1477800.git/commit/eaedd54,
+barraponto,,,/sandbox/barraponto/1477800,commit,2012-03-12 03:52:00+00:00,http://drupalcode.org/sandbox/barraponto/1477800.git/commit/c97f775,
+barraponto,,,/sandbox/barraponto/1477800,commit,2012-03-12 03:29:00+00:00,http://drupalcode.org/sandbox/barraponto/1477800.git/commit/0dd410a,
+barraponto,,,/sandbox/barraponto/1477800,commit,2012-03-12 03:28:00+00:00,http://drupalcode.org/sandbox/barraponto/1477800.git/commit/420b357,
+barraponto,,,/sandbox/barraponto/1477800,commit,2012-03-12 03:28:00+00:00,http://drupalcode.org/sandbox/barraponto/1477800.git/commit/edaf49f,
+barraponto,theme_links() now allows more targeted overrides,,/project/tao,issue,2012-02-01 00:53:00+00:00,,https://www.drupal.org/node/1423664
+barraponto,,https://www.drupal.org/files/1423664-tao-theme-links-specific.patch,/project/tao,patch,2012-02-20 02:52:00+00:00,,https://www.drupal.org/node/1423664
+barraponto,Browser-targeted CSS files can now be added on tao.info,,/project/tao,issue,2012-02-15 13:19:00+00:00,,https://www.drupal.org/node/1440958
+barraponto,PHPTemplate is now the default theme engine,,/project/tao,issue,2012-02-15 13:26:00+00:00,,https://www.drupal.org/node/1440968
+barraponto,A proper thumbnail screenshot,,/project/tao,issue,2012-02-15 13:44:00+00:00,,https://www.drupal.org/node/1440992
+barraponto,,,/sandbox/barraponto/1477800,commit,2012-03-11 23:07:00+00:00,http://drupalcode.org/sandbox/barraponto/1477800.git/commit/3b31cc7,
+barraponto,,,/sandbox/barraponto/1477800,commit,2012-03-11 22:19:00+00:00,http://drupalcode.org/sandbox/barraponto/1477800.git/commit/757ee04,
+barraponto,,,/sandbox/barraponto/1477800,commit,2012-03-11 22:12:00+00:00,http://drupalcode.org/sandbox/barraponto/1477800.git/commit/06ed990,
+barraponto,,,/sandbox/barraponto/1140004,commit,2012-03-11 21:49:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/47b387e,
+barraponto,,https://www.drupal.org/files/1440968-tao-phptemplate-now-default-engine.patch,/project/tao,patch,2012-02-20 02:54:00+00:00,,https://www.drupal.org/node/1440968
+barraponto,,,/sandbox/barraponto/1140004,commit,2012-03-11 21:49:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/8c72ac2,
+barraponto,,,/sandbox/barraponto/1140004,commit,2012-03-11 21:49:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/db285a1,
+barraponto,,,/sandbox/barraponto/1140004,commit,2012-03-11 21:49:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/30778d5,
+barraponto,Mixed line endings (unix and dos formats),,/project/fusion,issue,2011-04-22 15:30:00+00:00,,https://www.drupal.org/node/1135580
+barraponto,,https://www.drupal.org/files/issues/composed_field-select_options_are_not_handled_properly2011088-1.patch,/project/composed_field,patch,2014-03-24 14:37:00+00:00,,https://www.drupal.org/node/2011088
+barraponto,Service Links Displays stopped working with DS 7.x-2.x,,/project/service_links,issue,2012-09-19 17:35:00+00:00,,https://www.drupal.org/node/1789332
+barraponto,"""Add new group"" row lacks proper colspans",,/project/field_group,issue,2013-04-07 14:57:00+00:00,,https://www.drupal.org/node/1963740
+barraponto,,https://www.drupal.org/files/kalatheme-better_libraries_integration-1908042-7.patch,/project/kalatheme,patch,2013-04-26 07:59:00+00:00,,https://www.drupal.org/node/1908042
+barraponto,,https://www.drupal.org/files/kalatheme-illegal-string-offset-1935440-2.patch,/project/kalatheme,patch,2013-04-08 00:39:00+00:00,,https://www.drupal.org/node/1935440
+barraponto,Don't filter and translate empty strings,,/project/field_group,issue,2014-03-21 17:26:00+00:00,,https://www.drupal.org/node/2223269
+barraponto,,,/sandbox/barraponto/1140004,commit,2012-03-11 21:49:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/e771161,
+barraponto,,,/sandbox/barraponto/1140004,commit,2012-03-11 21:49:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/2e587d2,
+barraponto,,,/sandbox/barraponto/1140004,commit,2012-03-11 21:48:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/6c3da24,
+barraponto,,,/sandbox/barraponto/1140004,commit,2012-03-11 21:48:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/ea97d24,
+barraponto,,https://www.drupal.org/files/1789332-service_links-display_suite-compatibility.patch,/project/service_links,patch,2012-10-23 10:39:00+00:00,,https://www.drupal.org/node/1789332
+barraponto,,https://www.drupal.org/files/field_group-proper_colspans-1963740-1.patch,/project/field_group,patch,2013-04-07 15:03:00+00:00,,https://www.drupal.org/node/1963740
+barraponto,,https://www.drupal.org/files/after_78.png,/project/field_group,patch,2013-04-07 15:15:00+00:00,,https://www.drupal.org/node/1963740
+barraponto,,https://www.drupal.org/files/after_79.png,/project/field_group,patch,2013-04-07 15:27:00+00:00,,https://www.drupal.org/node/1963740
+barraponto,,https://www.drupal.org/files/kalatheme-better_libraries_integration-1908042-9.patch,/project/kalatheme,patch,2013-04-27 00:54:00+00:00,,https://www.drupal.org/node/1908042
+barraponto,,https://www.drupal.org/files/kalatheme-illegal-string-offset-1935440-4.patch,/project/kalatheme,patch,2013-04-08 04:30:00+00:00,,https://www.drupal.org/node/1935440
+barraponto,,https://www.drupal.org/files/issues/field_group-dont_filter_and_translate_empty_strings.patch,/project/field_group,patch,2014-03-21 17:27:00+00:00,,https://www.drupal.org/node/2223269
+barraponto,,https://www.drupal.org/files/issues/field_group-dont_filter_and_translate_empty_strings_0.patch,/project/field_group,patch,2014-03-21 17:28:00+00:00,,https://www.drupal.org/node/2223269
+barraponto,CDN assets should be optional,,/project/radix,issue,2014-03-23 19:01:00+00:00,,https://www.drupal.org/node/2224149
+barraponto,Clean up global/_variable.scss,,/project/radix,issue,2014-07-18 04:55:00+00:00,,https://www.drupal.org/node/2305445
+barraponto,Support child terms in taxonomy condition,,/project/menu_position,issue,2012-08-28 11:39:00+00:00,,https://www.drupal.org/node/1760302
+barraponto,,,/sandbox/barraponto/1140004,commit,2012-03-11 21:48:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/1a9f26d,
+barraponto,,,/sandbox/barraponto/1140004,commit,2012-03-08 23:34:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/44766e7,
+barraponto,,https://www.drupal.org/files/menu-position-support-child-terms-1760302.patch,/project/menu_position,patch,2012-08-28 12:32:00+00:00,,https://www.drupal.org/node/1760302
+barraponto,,,/sandbox/barraponto/1140004,commit,2012-03-08 18:30:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/1a19ab4,
+barraponto,,,/sandbox/barraponto/1140004,commit,2012-03-08 14:25:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/2200d9c,
+barraponto,Don't add radix-modal.js unless needed,,/project/radix,issue,2014-02-24 19:55:00+00:00,,https://www.drupal.org/node/2204193
+barraponto,,https://www.drupal.org/files/issues/panopoly_admin-update_underscore_to_15x-2201695.patch,/project/panopoly,patch,2014-02-23 10:19:00+00:00,,https://www.drupal.org/node/2201695
+barraponto,,https://www.drupal.org/files/issues/composed_field-fields_are_not_displayed_in_views-1929462.patch,/project/composed_field,patch,2014-03-24 16:00:00+00:00,,https://www.drupal.org/node/1929462
+barraponto,Permissions interface is broken.,,/project/radix,issue,2014-02-27 03:37:00+00:00,,https://www.drupal.org/node/2206229
+barraponto,,https://www.drupal.org/files/issues/radix-administer_permissions.patch,/project/radix,patch,2014-02-27 03:51:00+00:00,,https://www.drupal.org/node/2206229
+barraponto,Date values not handled properly,,/project/composed_field,issue,2014-03-24 14:41:00+00:00,,https://www.drupal.org/node/2224681
+barraponto,Complete the update path from Tao 6 to Tao 7,,/project/tao,issue,2012-01-31 15:30:00+00:00,,https://www.drupal.org/node/1422968
+barraponto,Views UI labels CSS is broken,,/project/radix,issue,2014-03-21 19:55:00+00:00,,https://www.drupal.org/node/2223337
+barraponto,,,/sandbox/barraponto/1140004,commit,2012-03-08 13:31:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/f213b50,
+barraponto,,https://www.drupal.org/files/issues/composed_field-date_values_not_handled_properly-2224681.patch,/project/composed_field,patch,2014-03-24 14:42:00+00:00,,https://www.drupal.org/node/2224681
+barraponto,,https://www.drupal.org/files/issues/radix-views_ui_labels_css.patch,/project/radix,patch,2014-03-21 20:00:00+00:00,,https://www.drupal.org/node/2223337
+barraponto,Proper placeholders for Sass compiling message,,/project/radix,issue,2014-02-04 21:28:00+00:00,,https://www.drupal.org/node/2188883
+barraponto,Use .modal-open to prevent scrolling outside the modal,,/project/radix,issue,2014-03-22 15:37:00+00:00,,https://www.drupal.org/node/2223691
+barraponto,title_suffix and title_prefix are not being printed,,/project/tao,issue,2011-09-08 20:41:00+00:00,,https://www.drupal.org/node/1273594
+barraponto,"Properly use classes_array, attributes_array, title_attributes_array and content_attributes_array",,/project/tao,issue,2012-01-31 15:22:00+00:00,,https://www.drupal.org/node/1422958
+barraponto,"All theme functions now take a single argument, $variables",,/project/tao,issue,2012-01-31 16:38:00+00:00,,https://www.drupal.org/node/1423088
+barraponto,,https://www.drupal.org/files/1423088-tao-variable-consistency-in-template-php.patch,/project/tao,patch,2012-01-31 16:40:00+00:00,,https://www.drupal.org/node/1423088
+barraponto,$left and $right variables are now $sidebar_first and $sidebar_second; CSS IDs also changed,,/project/tao,issue,2012-01-31 23:09:00+00:00,,https://www.drupal.org/node/1423552
+barraponto,,https://www.drupal.org/files/1423552-tao-left-and-region-are-now-sidebar-first-and-sidebar-second.patch,/project/tao,patch,2012-01-31 23:28:00+00:00,,https://www.drupal.org/node/1423552
+barraponto,theme_links() has a new parameter 'heading' for accessibility,,/project/tao,issue,2012-02-01 00:47:00+00:00,,https://www.drupal.org/node/1423654
+barraponto,,https://www.drupal.org/files/1423654-tao-theme-links-a11y.patch,/project/tao,patch,2012-02-01 00:49:00+00:00,,https://www.drupal.org/node/1423654
+barraponto,,https://www.drupal.org/files/issues/tao-title-prefix-suffix-1273594-1.patch,/project/tao,patch,2011-09-08 22:02:00+00:00,,https://www.drupal.org/node/1273594
+barraponto,,https://www.drupal.org/files/1422958-tao-use-classes-and-attributes-flattening.patch,/project/tao,patch,2012-01-31 15:25:00+00:00,,https://www.drupal.org/node/1422958
+barraponto,,,/sandbox/barraponto/1140004,commit,2012-03-08 13:30:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/fb97449,/node/039
+barraponto,,,/sandbox/barraponto/1140004,commit,2012-03-08 13:11:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/27396f9,
+barraponto,,,/sandbox/barraponto/1140004,commit,2012-03-08 12:56:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/6930a00,
+barraponto,,,/sandbox/barraponto/1140004,commit,2012-03-08 12:48:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/17bac94,/node/039
+barraponto,,,/sandbox/barraponto/1140004,commit,2012-03-08 12:44:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/bfa37a0,
+barraponto,,,/sandbox/barraponto/1140004,commit,2012-03-08 12:32:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/23bb06c,
+barraponto,,,/sandbox/barraponto/1140004,commit,2012-03-08 12:24:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/59913a1,
+barraponto,,,/sandbox/barraponto/1140004,commit,2012-03-08 11:02:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/6008376,
+barraponto,,,/sandbox/barraponto/1140004,commit,2012-03-08 02:24:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/0947fce,
+barraponto,,,/sandbox/barraponto/1140004,commit,2012-03-08 01:47:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/8a2d341,
+barraponto,,,/sandbox/barraponto/1140004,commit,2012-03-06 00:57:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/6ec5330,
+barraponto,,,/sandbox/barraponto/1140004,commit,2012-03-05 15:47:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/1fdb23d,
+barraponto,,,/sandbox/barraponto/1140004,commit,2012-03-05 15:45:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/0f115a5,
+barraponto,,,/sandbox/barraponto/1140004,commit,2012-03-05 15:12:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/172ad63,
+barraponto,,,/sandbox/barraponto/1140004,commit,2012-03-05 15:12:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/515582e,
+barraponto,,,/sandbox/barraponto/1140004,commit,2012-03-05 15:09:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/19302f9,
+barraponto,,,/sandbox/barraponto/1140004,commit,2012-03-05 15:08:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/e0c2a4d,
+barraponto,,,/sandbox/barraponto/1140004,commit,2012-03-05 15:00:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/6ef4019,
+barraponto,,,/sandbox/barraponto/1140004,commit,2012-03-05 14:53:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/5fdf908,
+barraponto,Dependency on patch navbar patch,,/project/radix_admin,issue,2014-02-06 02:44:00+00:00,,https://www.drupal.org/node/2189929
+barraponto,Customize link labels in Content Prepopulate Links panes,,/project/entityreference_prepopulate,issue,2014-02-15 18:12:00+00:00,,https://www.drupal.org/node/2197087
+barraponto,,,/sandbox/barraponto/1140004,commit,2012-03-03 15:46:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/47ba4c3,
+barraponto,,,/sandbox/barraponto/1140004,commit,2012-03-03 15:45:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/c28fe47,
+barraponto,,,/sandbox/barraponto/1140004,commit,2012-03-02 18:40:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/1adb966,
+barraponto,,,/sandbox/barraponto/1140004,commit,2012-03-02 15:25:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/fe78ff6,
+barraponto,Integrate (or merge) with value_is module,,/project/fapi_validation,issue,2013-05-09 15:16:00+00:00,,https://www.drupal.org/node/1991068
+barraponto,Spam Report,,/project/issues/webmasters,issue,2014-02-05 14:00:00+00:00,,https://www.drupal.org/node/2189387
+barraponto,,https://www.drupal.org/files/issues/infrastructure-expose_list_of_releases-669910-99.patch,/project/project,patch,2014-01-27 10:47:00+00:00,,https://www.drupal.org/node/669910
+barraponto,Apps and Panopoly icons are gone from the Navbar,,/project/radix,issue,2014-02-04 21:49:00+00:00,,https://www.drupal.org/node/2188905
+barraponto,Form actions in Modal contents,,/project/radix,issue,2014-02-06 03:51:00+00:00,,https://www.drupal.org/node/2189953
+barraponto,Add gem version instructions to Readme,,/project/radix,issue,2014-02-07 12:15:00+00:00,,https://www.drupal.org/node/2191045
+barraponto,Remove Vertical Tab Fieldset box shadow,,/project/radix,issue,2014-02-07 12:40:00+00:00,,https://www.drupal.org/node/2191063
+barraponto,,https://www.drupal.org/files/issues/Screenshot%20from%202014-02-07%2017%3A45%3A18.png,/project/radix,patch,2014-02-07 19:46:00+00:00,,https://www.drupal.org/node/2191063
+barraponto,"Form-item class missing in form elements, breaks Form States API",,/project/radix,issue,2014-02-07 11:57:00+00:00,,https://www.drupal.org/node/2191033
+barraponto,,,/sandbox/barraponto/1140004,commit,2012-03-02 15:09:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/4445984,
+barraponto,,,/sandbox/barraponto/1140004,commit,2012-03-02 15:00:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/30dc4f0,
+barraponto,,https://www.drupal.org/files/issues/radix-missing_navbar_icons_0.patch,/project/radix,patch,2014-02-04 22:08:00+00:00,,https://www.drupal.org/node/2188905
+barraponto,,https://www.drupal.org/files/issues/radix-form_item_class_missing_0.patch,/project/radix,patch,2014-02-07 19:46:00+00:00,,https://www.drupal.org/node/2191033
+barraponto,,https://www.drupal.org/files/issues/Screenshot%20from%202014-02-05%2020%3A41%3A32.png,/project/radix,patch,2014-02-05 22:42:00+00:00,,https://www.drupal.org/node/2159117
+barraponto,Something odd in panopoly_magic,,/project/panopoly,issue,2014-02-25 02:28:00+00:00,,https://www.drupal.org/node/2204393
+barraponto,Spam Report,,/project/issues/webmasters,issue,2014-02-26 12:36:00+00:00,,https://www.drupal.org/node/2205583
+barraponto,Use stable Fieldable Panels Panes release,,/project/panopoly,issue,2014-02-14 23:34:00+00:00,,https://www.drupal.org/node/2196661
+barraponto,Use Drupal.behaviors pattern for Javascript,,/project/radix,issue,2014-02-24 17:55:00+00:00,,https://www.drupal.org/node/2204117
+barraponto,"Set Pathauto patterns as defaultconfig, not strongarm",,/project/panopoly_news,issue,2014-03-02 16:01:00+00:00,,https://www.drupal.org/node/2208823
+barraponto,,,/sandbox/barraponto/1140004,commit,2012-02-25 20:31:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/a54950a,
+barraponto,,,/sandbox/barraponto/1140004,commit,2012-02-25 16:00:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/6cf7f5d,
+barraponto,,,/sandbox/barraponto/1140004,commit,2012-02-25 16:00:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/eb30c5f,
+barraponto,,,/sandbox/barraponto/1140004,commit,2012-02-25 16:00:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/933bcf8,
+barraponto,,,/sandbox/barraponto/1140004,commit,2012-02-25 15:55:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/9438b73,
+barraponto,,,/project/xmas,commit,2012-02-22 20:37:00+00:00,http://drupalcode.org/project/xmas.git/commit/75f4d39,
+barraponto,,,/project/xmas,commit,2012-02-22 20:37:00+00:00,http://drupalcode.org/project/xmas.git/commit/fc566d9,
+barraponto,,,/project/xmas,commit,2012-02-22 20:22:00+00:00,http://drupalcode.org/project/xmas.git/commit/0848bcb,
+barraponto,,,/project/xmas,commit,2012-02-22 20:04:00+00:00,http://drupalcode.org/project/xmas.git/commit/56d4637,
+barraponto,,,/project/xmas,commit,2012-02-22 20:02:00+00:00,http://drupalcode.org/project/xmas.git/commit/2e48215,
+barraponto,,,/project/xmas,commit,2012-02-22 20:02:00+00:00,http://drupalcode.org/project/xmas.git/commit/405d556,
+barraponto,,,/project/xmas,commit,2012-02-22 19:33:00+00:00,http://drupalcode.org/project/xmas.git/commit/1953edd,
+barraponto,,,/project/xmas,commit,2012-02-22 18:18:00+00:00,http://drupalcode.org/project/xmas.git/commit/735117c,
+barraponto,,,/project/xmas,commit,2012-02-22 18:17:00+00:00,http://drupalcode.org/project/xmas.git/commit/ba6dce1,/node/1139976
+barraponto,,,/project/xmas,commit,2012-02-22 16:34:00+00:00,http://drupalcode.org/project/xmas.git/commit/e93fa63,
+barraponto,,,/project/xmas,commit,2012-02-22 15:58:00+00:00,http://drupalcode.org/project/xmas.git/commit/b0b84c8,/node/1140012
+barraponto,,,/project/xmas,commit,2012-02-21 18:57:00+00:00,http://drupalcode.org/project/xmas.git/commit/a3e79ae,
+barraponto,,,/project/xmas,commit,2012-02-21 16:55:00+00:00,http://drupalcode.org/project/xmas.git/commit/dd1e799,
+barraponto,,,/project/xmas,commit,2012-02-21 16:47:00+00:00,http://drupalcode.org/project/xmas.git/commit/b3f8b4b,
+barraponto,,,/project/xmas,commit,2012-02-21 16:47:00+00:00,http://drupalcode.org/project/xmas.git/commit/080c40d,
+barraponto,,,/project/xmas,commit,2012-02-21 01:55:00+00:00,http://drupalcode.org/project/xmas.git/commit/71a9f73,
+barraponto,Fixing common typos through codespell.py,,/project/drupal,issue,2011-02-08 12:34:00+00:00,,https://www.drupal.org/node/1054848
+barraponto,,,/project/xmas,commit,2011-12-23 04:17:00+00:00,http://drupalcode.org/project/xmas.git/commit/0046eeb,/node/039
+barraponto,,,/project/xmas,commit,2011-12-23 03:47:00+00:00,http://drupalcode.org/project/xmas.git/commit/9c03fea,
+barraponto,,,/project/xmas,commit,2011-12-23 03:42:00+00:00,http://drupalcode.org/project/xmas.git/commit/ac2bfe1,
+barraponto,,,/project/xmas,commit,2011-12-12 19:04:00+00:00,http://drupalcode.org/project/xmas.git/commit/66140ce,
+barraponto,,https://www.drupal.org/files/issues/review.txt,/project/drupal,patch,2011-08-14 15:07:00+00:00,,https://www.drupal.org/node/1054848
+barraponto,,https://www.drupal.org/files/issues/1054848-drupal-codespell-9.patch,/project/drupal,patch,2011-09-22 00:34:00+00:00,,https://www.drupal.org/node/1054848
+barraponto,.hidden class conflicts with l10n_client (maybe other modules),,/project/toolbar,issue,2011-02-17 22:22:00+00:00,,https://www.drupal.org/node/1065214
+barraponto,Default field.tpl.php prints a clearfix class theme_field doesn't,,/project/drupal,issue,2011-12-29 15:11:00+00:00,,https://www.drupal.org/node/1388496
+barraponto,Load Markdown library with Libraries API 2,,/project/markdown,issue,2012-04-13 18:54:00+00:00,,https://www.drupal.org/node/1532380
+barraponto,Notice: Array to string conversion in features_export_prepare() (line 190 of features.export.inc),,/project/features,issue,2012-05-18 13:54:00+00:00,,https://www.drupal.org/node/1588596
+barraponto,,https://www.drupal.org/files/issues/1054848-run-codespell.py-on-drupal-7-branch.patch,/project/drupal,patch,2011-09-26 15:46:00+00:00,,https://www.drupal.org/node/1054848
+barraponto,,https://www.drupal.org/files/issues/field_validation-option_should_be_entity_type-2015297-3.patch,/project/field_validation,patch,2014-01-06 03:51:00+00:00,,https://www.drupal.org/node/2015297
+barraponto,Fix checkbox and radio alignment,,/project/kalatheme,issue,2013-11-05 15:00:00+00:00,,https://www.drupal.org/node/2128167
+barraponto,,https://www.drupal.org/files/issues/field_validation-unique_values_errors_always_set_on_first_value-1897764-4.patch,/project/field_validation,patch,2014-01-08 02:11:00+00:00,,https://www.drupal.org/node/1897764
+barraponto,,https://www.drupal.org/files/1388496-field-template-always-prints-clearfix-class_d7.patch,/project/drupal,patch,2012-01-02 01:05:00+00:00,,https://www.drupal.org/node/1388496
+barraponto,,https://www.drupal.org/files/1388496-field-template-always-prints-clearfix-class_d7_0.patch,/project/drupal,patch,2012-01-02 01:06:00+00:00,,https://www.drupal.org/node/1388496
+barraponto,,https://www.drupal.org/files/1388496-field-template-always-prints-clearfix-class-7.patch,/project/drupal,patch,2012-03-01 01:38:00+00:00,,https://www.drupal.org/node/1388496
+barraponto,,https://www.drupal.org/files/1532380-markdown-integrate-with-libraries-api.patch,/project/markdown,patch,2012-04-13 19:22:00+00:00,,https://www.drupal.org/node/1532380
+barraponto,,https://www.drupal.org/files/1532380-markdown-integrate-with-libraries-api-8.patch,/project/markdown,patch,2012-05-07 12:09:00+00:00,,https://www.drupal.org/node/1532380
+barraponto,,https://www.drupal.org/files/issues/field_validation-option_should_be_entity_type-2015297-5.patch,/project/field_validation,patch,2014-01-06 15:06:00+00:00,,https://www.drupal.org/node/2015297
+barraponto,,https://www.drupal.org/files/1388496-field-template-always-prints-clearfix-class_d7_1.patch,/project/drupal,patch,2012-03-07 01:17:00+00:00,,https://www.drupal.org/node/1388496
+barraponto,Apply vertical-align to icons,,/project/activitystream,issue,2010-06-21 00:47:00+00:00,,https://www.drupal.org/node/833142
+barraponto,,https://www.drupal.org/files/issues/clientside_validation-support_field_validation_unique_values-1494974-9.patch,/project/clientside_validation,patch,2014-01-07 20:36:00+00:00,,https://www.drupal.org/node/1494974
+barraponto,Update Radix Theme,,/project/radix_core,issue,2013-12-05 22:58:00+00:00,,https://www.drupal.org/node/2150937
+barraponto,,https://www.drupal.org/files/issues/radix_core-update_radix_theme-2.patch,/project/radix_core,patch,2014-02-04 03:50:00+00:00,,https://www.drupal.org/node/2150937
+barraponto,,https://www.drupal.org/files/issues/activitystream-833142.patch,/project/activitystream,patch,2010-06-21 00:48:00+00:00,,https://www.drupal.org/node/833142
+barraponto,,https://www.drupal.org/files/issues/clientside_validation-support_field_validation_unique_values-1494974-11.patch,/project/clientside_validation,patch,2014-01-07 20:42:00+00:00,,https://www.drupal.org/node/1494974
+barraponto,,https://www.drupal.org/files/issues/radix_core-update_radix_theme-3.patch,/project/radix_core,patch,2014-02-04 03:56:00+00:00,,https://www.drupal.org/node/2150937
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-12-08 20:54:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/be5751a,/node/4
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-12-03 19:39:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/f8edb42,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-12-02 00:35:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/c0f1c23,
+barraponto,,,/project/doabarrelroll,commit,2011-12-01 18:27:00+00:00,http://drupalcode.org/project/doabarrelroll.git/commit/519aade,
+barraponto,,,/project/doabarrelroll,commit,2011-12-01 18:22:00+00:00,http://drupalcode.org/project/doabarrelroll.git/commit/a9a669e,/node/1336164
+barraponto,,,/project/doabarrelroll,commit,2011-12-01 17:59:00+00:00,http://drupalcode.org/project/doabarrelroll.git/commit/d61b58f,/node/1336164
+barraponto,,,/sandbox/barraponto/1356216,commit,2011-11-29 20:10:00+00:00,http://drupalcode.org/sandbox/barraponto/1356216.git/commit/b301d39,
+barraponto,,,/sandbox/barraponto/1356216,commit,2011-11-29 20:07:00+00:00,http://drupalcode.org/sandbox/barraponto/1356216.git/commit/f8347be,/node/039
+barraponto,,,/sandbox/barraponto/1356216,commit,2011-11-29 19:17:00+00:00,http://drupalcode.org/sandbox/barraponto/1356216.git/commit/29d36be,/node/039
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-11-26 17:30:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/25ff927,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-11-26 17:29:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/a38867d,
+barraponto,,,/project/zen,commit,2011-11-23 11:33:00+00:00,http://drupalcode.org/project/zen.git/commit/94f7605,
+barraponto,,,/sandbox/dixon/1573150,commit,2011-11-23 11:33:00+00:00,http://drupalcode.org/sandbox/dixon/1573150.git/commit/94f7605,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-11-17 01:54:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/090a7db,
+barraponto,,,/project/xmas,commit,2011-11-16 20:43:00+00:00,http://drupalcode.org/project/xmas.git/commit/bd6f570,
+barraponto,,,/project/xmas,commit,2011-11-16 20:21:00+00:00,http://drupalcode.org/project/xmas.git/commit/b39232d,
+barraponto,,,/project/xmas,commit,2011-11-16 20:02:00+00:00,http://drupalcode.org/project/xmas.git/commit/a7a100a,
+barraponto,,,/project/xmas,commit,2011-11-16 19:58:00+00:00,http://drupalcode.org/project/xmas.git/commit/aeabe75,
+barraponto,,,/project/xmas,commit,2011-11-16 19:57:00+00:00,http://drupalcode.org/project/xmas.git/commit/cf20b1f,
+barraponto,,,/project/xmas,commit,2011-11-16 19:41:00+00:00,http://drupalcode.org/project/xmas.git/commit/856823c,
+barraponto,,,/project/xmas,commit,2011-11-16 19:36:00+00:00,http://drupalcode.org/project/xmas.git/commit/cf979fa,
+barraponto,,,/project/xmas,commit,2011-11-16 19:01:00+00:00,http://drupalcode.org/project/xmas.git/commit/5e95ae7,
+barraponto,,,/project/xmas,commit,2011-11-16 18:54:00+00:00,http://drupalcode.org/project/xmas.git/commit/cc5abe9,
+barraponto,,,/project/xmas,commit,2011-11-16 18:25:00+00:00,http://drupalcode.org/project/xmas.git/commit/d3f6332,
+barraponto,,,/project/xmas,commit,2011-11-16 18:05:00+00:00,http://drupalcode.org/project/xmas.git/commit/e53fa22,
+barraponto,drush dd @alias:%site is unreliable for multi-site projects,,/project/drush,issue,2012-08-18 01:03:00+00:00,,https://www.drupal.org/node/1737360
+barraponto,Don't use alt for caption,,/project/plus_gallery,issue,2013-09-12 18:24:00+00:00,,https://www.drupal.org/node/2087847
+barraponto,,https://www.drupal.org/files/commerce_correios-shipping_time-1370874-4.patch,/project/commerce_correios,patch,2013-05-20 13:11:00+00:00,,https://www.drupal.org/node/1370874
+barraponto,,https://www.drupal.org/files/909954-document-base-hook.patch,/project/drupal,patch,2012-10-17 17:19:00+00:00,,https://www.drupal.org/node/909954
+barraponto,,https://www.drupal.org/files/1154382-12.patch,/project/drupal,patch,2011-12-19 15:56:00+00:00,,https://www.drupal.org/node/1154382
+barraponto,,https://www.drupal.org/files/commerce_shipping-customize_display_title_for_shipping_services-1992734-3.patch,/project/commerce_shipping,patch,2013-05-20 14:03:00+00:00,,https://www.drupal.org/node/1992734
+barraponto,,https://www.drupal.org/files/features-get-component-status-1042088-24.patch,/project/features,patch,2013-08-27 05:22:00+00:00,,https://www.drupal.org/node/1042088
+barraponto,,https://www.drupal.org/files/commerce_correios-shipping_time-1370874-5.patch,/project/commerce_correios,patch,2013-05-20 14:22:00+00:00,,https://www.drupal.org/node/1370874
+barraponto,,https://www.drupal.org/files/1154382-view-mode-no-longer-can-be-changed-14.patch,/project/drupal,patch,2012-01-02 13:37:00+00:00,,https://www.drupal.org/node/1154382
+barraponto,,https://www.drupal.org/files/config_perms-invalid_argument_foreach-1229198-5.patch,/project/config_perms,patch,2013-04-09 14:13:00+00:00,,https://www.drupal.org/node/1229198
+barraponto,.form-action styles for the search button is broken,,/project/radix,issue,2013-12-05 21:57:00+00:00,,https://www.drupal.org/node/2150893
+barraponto,Grammer Parser patch to resolve per-file notice on php 5.4,,/project/drupalapi,issue,2012-11-11 15:46:00+00:00,,https://www.drupal.org/node/1837766
+barraponto,,,/project/xmas,commit,2011-11-16 17:03:00+00:00,http://drupalcode.org/project/xmas.git/commit/b872161,
+barraponto,,,/project/xmas,commit,2011-11-16 17:02:00+00:00,http://drupalcode.org/project/xmas.git/commit/7e8b295,
+barraponto,,,/project/xmas,commit,2011-11-16 11:02:00+00:00,http://drupalcode.org/project/xmas.git/commit/52df6e5,
+barraponto,,,/project/xmas,commit,2011-11-16 10:55:00+00:00,http://drupalcode.org/project/xmas.git/commit/8ab5246,
+barraponto,,,/project/xmas,commit,2011-11-16 00:53:00+00:00,http://drupalcode.org/project/xmas.git/commit/1537260,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-11-15 13:43:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/1671c2e,
+barraponto,,,/project/xmas,commit,2011-11-14 19:47:00+00:00,http://drupalcode.org/project/xmas.git/commit/d24ad07,
+barraponto,,,/project/xmas,commit,2011-11-14 19:27:00+00:00,http://drupalcode.org/project/xmas.git/commit/468d604,
+barraponto,,,/project/xmas,commit,2011-11-14 19:21:00+00:00,http://drupalcode.org/project/xmas.git/commit/7e4419a,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-11-14 19:16:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/8ba6d0f,
+barraponto,,,/project/xmas,commit,2011-11-14 17:17:00+00:00,http://drupalcode.org/project/xmas.git/commit/f376252,
+barraponto,,,/project/xmas,commit,2011-11-12 10:10:00+00:00,http://drupalcode.org/project/xmas.git/commit/98281a1,
+barraponto,,,/project/xmas,commit,2011-11-12 09:59:00+00:00,http://drupalcode.org/project/xmas.git/commit/d279b37,
+barraponto,,,/project/xmas,commit,2011-11-12 09:29:00+00:00,http://drupalcode.org/project/xmas.git/commit/7d6c561,
+barraponto,,,/project/xmas,commit,2011-11-12 08:30:00+00:00,http://drupalcode.org/project/xmas.git/commit/2faff73,
+barraponto,,,/project/xmas,commit,2011-11-12 08:17:00+00:00,http://drupalcode.org/project/xmas.git/commit/f4ab008,
+barraponto,,,/project/xmas,commit,2011-11-12 08:14:00+00:00,http://drupalcode.org/project/xmas.git/commit/6f4ec31,
+barraponto,,,/project/xmas,commit,2011-11-12 07:58:00+00:00,http://drupalcode.org/project/xmas.git/commit/463cac0,
+barraponto,,,/project/xmas,commit,2011-11-12 07:55:00+00:00,http://drupalcode.org/project/xmas.git/commit/496df10,
+barraponto,,,/project/xmas,commit,2011-11-12 07:54:00+00:00,http://drupalcode.org/project/xmas.git/commit/f8cd0ad,
+barraponto,,,/project/xmas,commit,2011-11-12 07:51:00+00:00,http://drupalcode.org/project/xmas.git/commit/acfdf9b,
+barraponto,,,/project/xmas,commit,2011-11-12 07:50:00+00:00,http://drupalcode.org/project/xmas.git/commit/9a59868,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-11-12 06:45:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/1390e60,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-11-12 06:44:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/a3fe915,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-11-12 06:07:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/164a27f,
+barraponto,,https://www.drupal.org/files/issues/footer.css_.txt,/project/zen,patch,2011-01-04 01:00:00+00:00,,https://www.drupal.org/node/491478
+barraponto,,https://www.drupal.org/files/issues/zen-prevent-block-admin-mistyling-686014-4.patch,/project/zen,patch,2011-09-03 16:21:00+00:00,,https://www.drupal.org/node/686014
+barraponto,Use Bootstrap's appended input button where it makes sense.,,/project/kalatheme,issue,2013-04-09 19:53:00+00:00,,https://www.drupal.org/node/1965860
+barraponto,,https://www.drupal.org/files/1287286-tao-check-if-variables-exist-in-page-tpl-php.patch,/project/tao,patch,2012-01-31 16:56:00+00:00,,https://www.drupal.org/node/1287286
+barraponto,Expose Webform settings in content type form,,/project/webform,issue,2013-04-07 19:47:00+00:00,,https://www.drupal.org/node/1963870
+barraponto,,https://www.drupal.org/files/issues/zen-491478_0.patch,/project/zen,patch,2011-01-04 01:13:00+00:00,,https://www.drupal.org/node/491478
+barraponto,,https://www.drupal.org/files/issues/zen-491478_1.patch,/project/zen,patch,2011-01-04 01:17:00+00:00,,https://www.drupal.org/node/491478
+barraponto,,https://www.drupal.org/files/webform-content_type_form_settings-1963870-1.patch,/project/webform,patch,2013-04-07 19:57:00+00:00,,https://www.drupal.org/node/1963870
+barraponto,,https://www.drupal.org/files/webform-content_type_form_settings-1963870-2_0.patch,/project/webform,patch,2013-04-07 20:55:00+00:00,,https://www.drupal.org/node/1963870
+barraponto,,https://www.drupal.org/files/webform-content_type_form_settings-1963870-3.patch,/project/webform,patch,2013-04-07 21:09:00+00:00,,https://www.drupal.org/node/1963870
+barraponto,,https://www.drupal.org/files/issues/zen-table-rows-scope-1004752.patch,/project/zen,patch,2011-02-22 15:22:00+00:00,,https://www.drupal.org/node/1004752
+barraponto,,https://www.drupal.org/files/issues/zen-views-template-redundant-1086820-4.patch,/project/zen,patch,2011-09-03 15:16:00+00:00,,https://www.drupal.org/node/1086820
+barraponto,,https://www.drupal.org/files/webform-content_type_form_settings-1963870-4.patch,/project/webform,patch,2013-04-07 22:44:00+00:00,,https://www.drupal.org/node/1963870
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-11-12 06:05:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/022687f,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-11-12 05:55:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/1f77b74,
+barraponto,,https://www.drupal.org/files/issues/zen-fix-table-row-css-override-1004752-5_0.patch,/project/zen,patch,2011-09-03 16:07:00+00:00,,https://www.drupal.org/node/1004752
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-11-12 05:55:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/f98d9fe,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-11-12 05:54:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/f26406d,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-11-12 05:36:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/050bb21,
+barraponto,,,/project/doabarrelroll,commit,2011-11-09 18:51:00+00:00,http://drupalcode.org/project/doabarrelroll.git/commit/8edb891,
+barraponto,,,/project/doabarrelroll,commit,2011-11-09 18:35:00+00:00,http://drupalcode.org/project/doabarrelroll.git/commit/c954ba5,
+barraponto,,,/project/doabarrelroll,commit,2011-11-09 18:31:00+00:00,http://drupalcode.org/project/doabarrelroll.git/commit/110603d,
+barraponto,,,/project/doabarrelroll,commit,2011-11-09 12:13:00+00:00,http://drupalcode.org/project/doabarrelroll.git/commit/b84ec52,
+barraponto,,,/project/doabarrelroll,commit,2011-11-09 02:29:00+00:00,http://drupalcode.org/project/doabarrelroll.git/commit/faa6de3,
+barraponto,,,/project/doabarrelroll,commit,2011-11-09 02:23:00+00:00,http://drupalcode.org/project/doabarrelroll.git/commit/3016792,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-10-27 05:31:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/4d00cf9,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-10-23 11:43:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/c113b42,
+barraponto,,https://www.drupal.org/files/panopoly-reduce_reliance_on_panopoly_core-1840880-4.patch,/project/panopoly,patch,2013-04-25 18:32:00+00:00,,https://www.drupal.org/node/1840880
+barraponto,,https://www.drupal.org/files/drupal-csslint-openid-1663140-10.patch,/project/openid,patch,2012-10-30 13:26:00+00:00,,https://www.drupal.org/node/1663140
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-10-22 20:40:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/ac26cd1,/node/039
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-10-22 20:39:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/8107eee,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-10-22 16:28:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/ad4c27e,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-10-18 00:26:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/07c54c1,
+barraponto,,https://www.drupal.org/files/addressfield-973056-9-brazilian-addresses.patch,/project/addressfield,patch,2012-11-20 19:12:00+00:00,,https://www.drupal.org/node/973056
+barraponto,,https://www.drupal.org/files/profile2_regpath-logintoboggan_403_integration-1340068-4.patch,/project/profile2_regpath,patch,2013-04-17 03:00:00+00:00,,https://www.drupal.org/node/1340068
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-10-18 00:25:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/43f53f4,
+barraponto,,,/project/nodeformcols,commit,2011-10-16 14:14:00+00:00,http://drupalcode.org/project/nodeformcols.git/commit/0120682,/node/1159746
+barraponto,,,/project/nodeformcols,commit,2011-10-16 14:09:00+00:00,http://drupalcode.org/project/nodeformcols.git/commit/c1f24ca,/node/1024830
+barraponto,,https://www.drupal.org/files/profile2_regpath-logintoboggan_403_integration-1340068-5.patch,/project/profile2_regpath,patch,2013-04-17 03:12:00+00:00,,https://www.drupal.org/node/1340068
+barraponto,Notice: Undefined variable pane at admin/panopoly/panes,,/project/panopoly,issue,2013-04-26 14:09:00+00:00,,https://www.drupal.org/node/1980506
+barraponto,,https://www.drupal.org/files/commerce_cielo-ajax_callback_flag_options-1672810-12.patch,/project/commerce_cielo,patch,2013-05-24 11:39:00+00:00,,https://www.drupal.org/node/1672810
+barraponto,,https://www.drupal.org/files/1372894-views_slideshow-hide-controls-if-there-is-only-one-slide.patch,/project/views_slideshow,patch,2012-06-28 14:00:00+00:00,,https://www.drupal.org/node/1372894
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-10-03 21:26:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/2217dcd,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-10-03 18:44:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/20ddfe4,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-09-28 20:09:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/7911738,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-09-27 17:18:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/3adff14,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-09-27 16:55:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/987b2c4,
+barraponto,Manage field table looks ugly with kalatheme,,/project/kalatheme,issue,2013-04-16 16:01:00+00:00,,https://www.drupal.org/node/1971892
+barraponto,Library installed via drush command is not loaded,,/project/markdown,issue,2013-04-08 17:33:00+00:00,,https://www.drupal.org/node/1964712
+barraponto,,https://www.drupal.org/files/markdown-drush_command_default_path-1964712-1.patch,/project/markdown,patch,2013-04-08 19:56:00+00:00,,https://www.drupal.org/node/1964712
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-09-26 19:29:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/e29eb5d,
+barraponto,,,/project/jquery_expander,commit,2011-09-18 17:22:00+00:00,http://drupalcode.org/project/jquery_expander.git/commit/a5fc39d,/node/1280188
+barraponto,Export settings to Features,,/project/profile2_regpath,issue,2013-04-15 22:43:00+00:00,,https://www.drupal.org/node/1971218
+barraponto,,,/project/jquery_expander,commit,2011-09-17 20:12:00+00:00,http://drupalcode.org/project/jquery_expander.git/commit/66dad19,
+barraponto,,,/project/zen,commit,2011-09-08 07:15:00+00:00,http://drupalcode.org/project/zen.git/commit/12f1bf9,/node/1258280
+barraponto,,,/sandbox/sam/2288921,commit,2011-09-08 07:09:00+00:00,http://drupalcode.org/sandbox/sam/2288921.git/commit/7ab4d79,/node/1258280
+barraponto,,,/project/zen,commit,2011-09-08 07:09:00+00:00,http://drupalcode.org/project/zen.git/commit/7ab4d79,/node/1258280
+barraponto,,,/sandbox/dixon/1573150,commit,2011-09-08 07:09:00+00:00,http://drupalcode.org/sandbox/dixon/1573150.git/commit/7ab4d79,/node/1258280
+barraponto,,,/project/zen,commit,2011-09-08 06:42:00+00:00,http://drupalcode.org/project/zen.git/commit/9185054,/node/105524
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-06-22 23:36:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/0e07b91,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-06-22 23:14:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/d713774,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-05-09 04:00:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/c1ea76c,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-05-09 03:53:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/abec8b5,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-04-22 15:44:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/9bf40a3,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-03-28 13:00:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/dcc3ca5,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-03-28 12:59:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/9f31914,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-03-27 19:46:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/4605ed7,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-03-24 18:07:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/a26baa5,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-03-24 12:43:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/e83a1de,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-03-24 12:42:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/ec99d09,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-03-24 12:38:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/ac4c548,
+barraponto,Support template suggestions for link_types,,/project/flag,issue,2012-10-19 12:50:00+00:00,,https://www.drupal.org/node/1817644
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-03-24 05:30:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/b60006a,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-03-24 05:29:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/d101bef,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-03-24 05:28:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/f94bb03,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-03-24 05:28:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/3b91be5,
+barraponto,,https://www.drupal.org/files/1817644-flag-link-type-template-suggestions.patch,/project/flag,patch,2012-10-19 12:57:00+00:00,,https://www.drupal.org/node/1817644
+barraponto,,https://www.drupal.org/files/1817644-flag-link-type-template-suggestions-4.patch,/project/flag,patch,2012-10-19 22:18:00+00:00,,https://www.drupal.org/node/1817644
+barraponto,,https://www.drupal.org/files/1817644-flag-link-type-template-suggestions-6a.patch,/project/flag,patch,2012-12-04 12:12:00+00:00,,https://www.drupal.org/node/1817644
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-03-24 05:02:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/eaf3136,
+barraponto,Remove PHP version check from Common Syndication Parser,,/project/feeds,issue,2012-12-26 15:31:00+00:00,,https://www.drupal.org/node/1874322
+barraponto,,https://www.drupal.org/files/1817644-flag-link-type-template-suggestions-6b.patch,/project/flag,patch,2012-12-04 12:14:00+00:00,,https://www.drupal.org/node/1817644
+barraponto,,https://www.drupal.org/files/1817644-flag-link-type-template-suggestions-backport.patch,/project/flag,patch,2012-12-09 14:23:00+00:00,,https://www.drupal.org/node/1817644
+barraponto,More examples in the project page,,/project/drush_hosts,issue,2013-02-06 13:56:00+00:00,,https://www.drupal.org/node/1909570
+barraponto,,https://www.drupal.org/files/drupal-csslint-overlay-1663144-4.patch,/project/drupal,patch,2012-10-31 00:19:00+00:00,,https://www.drupal.org/node/1663144
+barraponto,,https://www.drupal.org/files/feeds-1874322-4-assume-php52.patch,/project/feeds,patch,2012-12-26 17:44:00+00:00,,https://www.drupal.org/node/1874322
+barraponto,,https://www.drupal.org/files/bean-add-views-filter-by-bean-type-1611676.patch,/project/bean,patch,2012-08-26 13:16:00+00:00,,https://www.drupal.org/node/1611676
+barraponto,,https://www.drupal.org/files/1324058-forum-rtl-needs-to-cancel-opposite-margins.patch,/project/drupal,patch,2012-03-23 02:31:00+00:00,,https://www.drupal.org/node/1324058
+barraponto,Undefined index path in panopoly_admin_menu_link_alter,,/project/panopoly,issue,2013-04-07 23:22:00+00:00,,https://www.drupal.org/node/1963968
+barraponto,,https://www.drupal.org/files/1324058-forum-rtl-indent-is-not-overridden-d7.patch,/project/drupal,patch,2012-03-23 02:44:00+00:00,,https://www.drupal.org/node/1324058
+barraponto,,https://www.drupal.org/files/1148542-markdown-prevent-buggy-output-from-input-filters-order.patch,/project/markdown,patch,2012-04-14 17:39:00+00:00,,https://www.drupal.org/node/1148542
+barraponto,,https://www.drupal.org/files/markdown-gamut_settings-1319492-6.patch,/project/markdown,patch,2013-04-08 15:07:00+00:00,,https://www.drupal.org/node/1319492
+barraponto,,https://www.drupal.org/files/elements-validate_comma_float_notation-1962156-3.patch,/project/elements,patch,2013-04-10 15:42:00+00:00,,https://www.drupal.org/node/1962156
+barraponto,,https://www.drupal.org/files/1148542-markdown-prevent-buggy-output-from-input-filters-order-10.patch,/project/markdown,patch,2012-05-07 12:18:00+00:00,,https://www.drupal.org/node/1148542
+barraponto,,https://www.drupal.org/files/1148542-markdown-prevent-buggy-output-from-input-filters-order-11.patch,/project/markdown,patch,2012-11-18 16:07:00+00:00,,https://www.drupal.org/node/1148542
+barraponto,,https://www.drupal.org/files/markdown-gamut_settings-1319492-8.patch,/project/markdown,patch,2013-04-08 19:18:00+00:00,,https://www.drupal.org/node/1319492
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-03-24 04:36:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/78e2f7c,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-03-24 04:33:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/dd0273a,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-03-24 04:31:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/a370ec2,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-03-24 04:13:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/b0b6116,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-03-24 03:22:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/cddc94f,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-03-23 21:54:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/33f3b0e,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-03-23 21:53:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/de82dd0,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-03-23 21:16:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/4f546e2,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-03-22 20:36:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/d85876e,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-03-22 20:30:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/0db4140,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-03-22 20:25:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/d1b2bc1,/node/2
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-03-22 19:04:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/0d05815,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-03-22 19:03:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/eb143ee,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-03-20 01:13:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/a883fca,/node/2
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-03-15 02:58:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/ff85962,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-03-15 02:44:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/b57ceb5,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-03-15 02:44:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/58a0dd4,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-03-15 02:35:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/769b062,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-03-15 02:33:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/5300ba5,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-03-15 02:29:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/65504c6,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-03-15 02:26:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/38f29ac,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-03-15 02:24:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/121d617,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-03-15 02:20:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/6ef18bd,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-03-15 02:17:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/1d7d7c8,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-03-15 01:29:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/a69dc66,
+barraponto,Coder compliance,,/project/markdown,issue,2012-04-13 21:19:00+00:00,,https://www.drupal.org/node/1532490
+barraponto,,https://www.drupal.org/files/1532490-markdown-coder-compliance.patch,/project/markdown,patch,2012-04-13 21:21:00+00:00,,https://www.drupal.org/node/1532490
+barraponto,Some profiles return 403 to anonymous users,,/project/issues/webmasters,issue,2012-11-02 07:31:00+00:00,,https://www.drupal.org/node/1829834
+barraponto,Coding standards,,/project/markdown,issue,2012-05-07 15:01:00+00:00,,https://www.drupal.org/node/1565608
+barraponto,,https://www.drupal.org/files/1565608-markdown-coding-standards.patch,/project/markdown,patch,2012-05-07 15:03:00+00:00,,https://www.drupal.org/node/1565608
+barraponto,,https://www.drupal.org/files/fapi_validation-1762870-support-multi-step-forms.patch,/project/fapi_validation,patch,2012-11-12 18:53:00+00:00,,https://www.drupal.org/node/1762870
+barraponto,"Views don't respect bean type ""view"" permission.",,/project/bean,issue,2012-08-25 10:23:00+00:00,,https://www.drupal.org/node/1753478
+barraponto,Add barraponto.blog.br to Planet Drupal,,/project/issues/content,issue,2012-10-19 03:16:00+00:00,,https://www.drupal.org/node/1817220
+barraponto,,https://www.drupal.org/files/issues/1262810-show-up-as-a-tab.patch,/project/term_merge,patch,2011-09-16 20:05:00+00:00,,https://www.drupal.org/node/1262810
+barraponto,,https://www.drupal.org/files/issues/1262810-term_merge-show-up-as-a-tab-6.patch,/project/term_merge,patch,2011-09-16 20:26:00+00:00,,https://www.drupal.org/node/1262810
+barraponto,Support Bean,,/project/auto_entitylabel,issue,2012-08-25 10:44:00+00:00,,https://www.drupal.org/node/1753592
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-03-11 21:48:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/f4e32be,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-03-11 21:48:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/4ad5d7d,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-03-11 15:32:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/8ebc1cd,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-03-11 15:15:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/86956e9,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-03-11 15:14:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/289a587,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-03-11 15:03:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/ebf2dc8,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-03-11 15:03:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/0884882,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-03-11 14:39:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/aa7db0e,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-03-11 14:11:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/7021815,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-03-11 14:10:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/8339118,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-03-11 03:41:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/f2f08c0,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-03-11 03:41:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/aa7d7fb,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-03-11 03:39:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/a0bb3d7,
+barraponto,,,/sandbox/sam/2288921,commit,2011-02-22 08:14:00+00:00,http://drupalcode.org/sandbox/sam/2288921.git/commit/94f7605,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-01-29 04:55:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/3896326,
+barraponto,,,/project/xmas,commit,2011-01-12 19:56:00+00:00,http://drupalcode.org/project/xmas.git/commit/a3cec8b,
+barraponto,,,/project/xmas,commit,2011-01-12 19:46:00+00:00,http://drupalcode.org/project/xmas.git/commit/57f497f,
+barraponto,,,/project/xmas,commit,2011-01-12 19:44:00+00:00,http://drupalcode.org/project/xmas.git/commit/88d8073,
+barraponto,,,/project/xmas,commit,2011-01-12 19:43:00+00:00,http://drupalcode.org/project/xmas.git/commit/c3381ea,
+barraponto,,,/project/xmas,commit,2011-01-10 12:03:00+00:00,http://drupalcode.org/project/xmas.git/commit/f99f391,
+barraponto,,,/project/xmas,commit,2011-01-10 12:02:00+00:00,http://drupalcode.org/project/xmas.git/commit/54eabd0,
+barraponto,,,/project/xmas,commit,2011-01-10 12:00:00+00:00,http://drupalcode.org/project/xmas.git/commit/ce9f3cd,
+barraponto,,,/project/xmas,commit,2011-01-10 11:58:00+00:00,http://drupalcode.org/project/xmas.git/commit/e91f786,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-01-04 00:57:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/ca90000,
+barraponto,,,/project/xmas,commit,2011-01-03 23:53:00+00:00,http://drupalcode.org/project/xmas.git/commit/be19767,
+barraponto,,https://www.drupal.org/files/issues/zen-prevent-webform-css-override-1232840-10.patch,/project/zen,patch,2011-09-04 20:23:00+00:00,,https://www.drupal.org/node/1232840
+barraponto,,https://www.drupal.org/files/1309658-link-url-building-went-crazy.patch,/project/link,patch,2012-08-15 11:48:00+00:00,,https://www.drupal.org/node/1309658
+barraponto,,https://www.drupal.org/files/1645640-deal-with-front-token_0.patch,/project/link,patch,2012-08-15 12:08:00+00:00,,https://www.drupal.org/node/1645640
+barraponto,Contextual Links can only be added if there is at least one contextual link,,/project/ccl,issue,2012-06-12 18:09:00+00:00,,https://www.drupal.org/node/1630556
+barraponto,,https://www.drupal.org/files/1630556-ccl-remove-unsupported-blocks-from-available-options.patch,/project/ccl,patch,2012-06-17 07:43:00+00:00,,https://www.drupal.org/node/1630556
+barraponto,Add case consistency to Bean permissions,,/project/bean,issue,2012-08-25 10:13:00+00:00,,https://www.drupal.org/node/1753406
+barraponto,,https://www.drupal.org/files/auto_entitylabel-backport-entity_language.patch,/project/auto_entitylabel,patch,2012-08-25 12:40:00+00:00,,https://www.drupal.org/node/1728268
+barraponto,,https://www.drupal.org/files/1645640-deal-with-front-token-3.patch,/project/link,patch,2012-08-15 12:57:00+00:00,,https://www.drupal.org/node/1645640
+barraponto,,https://www.drupal.org/files/1645640-deal-with-front-token-4.patch,/project/link,patch,2012-08-15 13:43:00+00:00,,https://www.drupal.org/node/1645640
+barraponto,,https://www.drupal.org/files/1535444-bean-typo-in-permission-description.patch,/project/bean,patch,2012-05-03 10:53:00+00:00,,https://www.drupal.org/node/1535444
+barraponto,,https://www.drupal.org/files/dreditor-just-stopped-working-1753972-3_0.patch,/project/dreditor,patch,2012-08-28 12:22:00+00:00,,https://www.drupal.org/node/1753972
+barraponto,Applying for commit access,,/project/tao,issue,2012-02-20 17:37:00+00:00,,https://www.drupal.org/node/1447092
+barraponto,,https://www.drupal.org/files/bean-permission-title-consistency-1753406.patch,/project/bean,patch,2012-08-25 10:16:00+00:00,,https://www.drupal.org/node/1753406
+barraponto,,https://www.drupal.org/files/bean-permission-title-consistency-1753406-2.patch,/project/bean,patch,2012-08-25 10:17:00+00:00,,https://www.drupal.org/node/1753406
+barraponto,,,/project/xmas,commit,2011-01-03 00:04:00+00:00,http://drupalcode.org/project/xmas.git/commit/a22e046,
+barraponto,,,/project/xmas,commit,2011-01-02 23:53:00+00:00,http://drupalcode.org/project/xmas.git/commit/6014103,
+barraponto,,,/project/xmas,commit,2011-01-02 23:48:00+00:00,http://drupalcode.org/project/xmas.git/commit/b43de52,
+barraponto,,,/project/xmas,commit,2011-01-02 23:48:00+00:00,http://drupalcode.org/project/xmas.git/commit/9ee98b3,
+barraponto,,,/project/xmas,commit,2011-01-02 01:26:00+00:00,http://drupalcode.org/project/xmas.git/commit/c853c7c,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-01-02 01:25:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/3e6018e,
+barraponto,,,/sandbox/barraponto/1140004,commit,2011-01-02 01:16:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/5450289,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-12-31 16:34:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/67c4033,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-12-31 16:33:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/858a9e2,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-12-31 16:32:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/2a55cf1,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-12-31 08:48:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/3212fbc,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-12-31 08:47:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/df42eec,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-12-31 08:45:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/7dc4115,
+barraponto,,,/project/xmas,commit,2010-12-28 22:54:00+00:00,http://drupalcode.org/project/xmas.git/commit/4f1d4ce,
+barraponto,,,/project/xmas,commit,2010-12-28 22:53:00+00:00,http://drupalcode.org/project/xmas.git/commit/2a449ba,
+barraponto,,,/project/xmas,commit,2010-12-28 22:51:00+00:00,http://drupalcode.org/project/xmas.git/commit/1a1560f,
+barraponto,,,/project/xmas,commit,2010-12-28 22:50:00+00:00,http://drupalcode.org/project/xmas.git/commit/122b7df,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-12-28 01:26:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/44724d7,
+barraponto,,,/project/xmas,commit,2010-12-27 23:39:00+00:00,http://drupalcode.org/project/xmas.git/commit/17e8a58,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-12-27 00:44:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/804c006,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-12-27 00:20:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/63d8056,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-12-27 00:19:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/22495c0,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-12-20 22:19:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/e1b6c92,
+barraponto,,,/project/xmas,commit,2010-12-20 20:50:00+00:00,http://drupalcode.org/project/xmas.git/commit/a795cb4,
+barraponto,,,/project/xmas,commit,2010-12-20 20:50:00+00:00,http://drupalcode.org/project/xmas.git/commit/7bf41ac,
+barraponto,zen_process_maintenance_page calls undefined zen_process_html,,/project/zen,issue,2012-04-21 14:19:00+00:00,,https://www.drupal.org/node/1541768
+barraponto,The past still haunts us,,/project/zen,issue,2012-03-08 02:57:00+00:00,,https://www.drupal.org/node/1472534
+barraponto,Module requires curl but it is not declared in hook_requirements,,/project/oauth,issue,2012-04-12 01:46:00+00:00,,https://www.drupal.org/node/1529166
+barraponto,List items text uses &nbsp; which messes up line breaking,,/project/jquery_dropdown,issue,2011-10-31 21:44:00+00:00,,https://www.drupal.org/node/1327726
+barraponto,Text fields and text areas on the right sidebar should be resized,,/project/nodeformcols,issue,2011-09-22 12:48:00+00:00,,https://www.drupal.org/node/1287452
+barraponto,,https://www.drupal.org/files/issues/1287452-nodeformcols-max-width-for-right-sidebar-inputs-1.patch,/project/nodeformcols,patch,2011-09-22 18:35:00+00:00,,https://www.drupal.org/node/1287452
+barraponto,,https://www.drupal.org/files/1460690-fapi_validation-url-rule-accepts-relative-urls.patch,/project/fapi_validation,patch,2012-06-13 05:49:00+00:00,,https://www.drupal.org/node/1460690
+barraponto,"What's the difference betwen ""manipulate queues"" permission and ""manipulate all queues"" permission""?",,/project/nodequeue,issue,2012-06-12 19:44:00+00:00,,https://www.drupal.org/node/1630654
+barraponto,,https://www.drupal.org/files/1529166-oauth-adding-curl-to-hook-requirements.patch,/project/oauth,patch,2012-04-12 01:57:00+00:00,,https://www.drupal.org/node/1529166
+barraponto,Plugin Description is not provided in example,,/project/bean_examples,issue,2012-04-17 15:22:00+00:00,,https://www.drupal.org/node/1536940
+barraponto,,https://www.drupal.org/files/1327726-jquery_dropdown-dont-turn-spaces-into-nbsp.patch,/project/jquery_dropdown,patch,2011-10-31 21:48:00+00:00,,https://www.drupal.org/node/1327726
+barraponto,ArticleListingBean->values() should call parent::values(),,/project/bean_examples,issue,2012-04-17 15:32:00+00:00,,https://www.drupal.org/node/1536948
+barraponto,,https://www.drupal.org/files/1536948-bean-examples-call-parent-values.patch,/project/bean_examples,patch,2012-04-17 15:34:00+00:00,,https://www.drupal.org/node/1536948
+barraponto,,https://www.drupal.org/files/1536940-bean-examples-add-plugin-description.patch,/project/bean_examples,patch,2012-04-17 15:24:00+00:00,,https://www.drupal.org/node/1536940
+barraponto,Administrative UI for managing device groups,,/project/mobile_tools,issue,2012-03-30 16:34:00+00:00,,https://www.drupal.org/node/1509808
+barraponto,,https://www.drupal.org/files/issues/geocoder_tokens-833086-21.patch,/project/openlayers_geocoder,patch,2011-08-02 20:26:00+00:00,,https://www.drupal.org/node/833086
+barraponto,,,/project/xmas,commit,2010-12-20 20:27:00+00:00,http://drupalcode.org/project/xmas.git/commit/c451a49,
+barraponto,,,/project/xmas,commit,2010-12-20 20:22:00+00:00,http://drupalcode.org/project/xmas.git/commit/b3ca849,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-12-20 20:18:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/140f146,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-12-20 20:18:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/8add8ca,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-12-20 20:18:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/1d4b480,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-12-20 20:16:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/435916b,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-12-16 21:07:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/d4429f5,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-12-16 21:05:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/51b7a9d,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-12-16 21:05:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/78c120a,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-12-15 16:21:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/9108820,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-12-15 16:20:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/3fdebf1,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-12-15 16:19:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/bb30077,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-12-15 15:38:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/0e40ddf,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-12-15 15:34:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/2bae71d,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-12-15 14:56:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/63718fa,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-12-15 14:56:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/14df826,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-12-15 14:19:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/d9c07bd,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-12-15 14:18:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/697a58e,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-12-15 14:17:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/774b05c,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-12-15 13:56:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/0eb6c1e,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-12-15 13:52:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/97f2b64,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-12-15 13:42:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/120168e,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-12-15 13:40:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/43c22cb,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-12-15 13:40:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/afd9013,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-12-15 13:36:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/0e386f2,
+barraponto,Module requires curl but it is not declared in hook_requirements,,/project/oauthconnector,issue,2012-04-12 02:09:00+00:00,,https://www.drupal.org/node/1529186
+barraponto,,https://www.drupal.org/files/1529186-oauth-adding-curl-to-hook-requirements.patch,/project/oauthconnector,patch,2012-04-12 02:13:00+00:00,,https://www.drupal.org/node/1529186
+barraponto,Conflicts with locale/translation,,/project/redirect,issue,2012-04-12 18:25:00+00:00,,https://www.drupal.org/node/1530202
+barraponto,,https://www.drupal.org/files/1276780-clone-looses-order-and-field-settings-9.patch,/project/ds,patch,2011-12-22 17:49:00+00:00,,https://www.drupal.org/node/1276780
+barraponto,Project description can't be parsed by humans,,/project/conditional_styles,issue,2011-05-16 13:28:00+00:00,,https://www.drupal.org/node/1159012
+barraponto,How does this differ from mobile tools?,,/project/mobile_switch,issue,2012-04-04 02:40:00+00:00,,https://www.drupal.org/node/1514270
+barraponto,Better titles for bean/add/%bean-type and bean/edit/%bean-delta,,/project/bean,issue,2012-04-17 21:45:00+00:00,,https://www.drupal.org/node/1537456
+barraponto,,https://www.drupal.org/files/1537456-bean-better-titles.patch,/project/bean,patch,2012-04-17 21:50:00+00:00,,https://www.drupal.org/node/1537456
+barraponto,,https://www.drupal.org/files/issues/108325-fix-typo-in-install-8.patch,/project/media_mover,patch,2011-09-05 20:15:00+00:00,,https://www.drupal.org/node/108325
+barraponto,,https://www.drupal.org/files/1170188-bean-add-edit-delete-paths.patch,/project/bean,patch,2012-04-17 19:58:00+00:00,,https://www.drupal.org/node/1170188
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-12-15 13:35:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/6c16375,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-12-14 05:37:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/17fe1fc,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-12-14 05:35:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/192a832,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-12-14 05:24:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/ac08985,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-12-13 02:29:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/3aae4c3,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-12-12 22:49:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/c3c4161,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-12-12 22:28:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/5d80b58,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-12-01 16:38:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/7eb1c2c,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-12-01 03:50:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/b32cb4d,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-12-01 03:38:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/cb8966f,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-12-01 03:36:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/c1983e3,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-12-01 03:34:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/1307958,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-12-01 03:31:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/eebeaa1,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-12-01 03:29:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/f8b441a,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-11-29 23:04:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/d322d48,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-11-29 23:02:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/99ca6f0,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-11-29 23:02:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/26f516d,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-11-29 21:32:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/720f46d,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-11-29 21:30:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/9daccd5,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-11-29 20:10:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/dc1c462,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-11-29 14:06:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/eb68d63,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-11-29 14:04:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/5cdc16a,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-11-29 03:24:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/5543ba2,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-11-29 02:01:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/06a0ba0,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-11-29 01:43:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/4baad51,
+barraponto,Properly declare hook_theme signature,,/project/tao,issue,2012-01-31 23:12:00+00:00,,https://www.drupal.org/node/1423556
+barraponto,,https://www.drupal.org/files/1423556-tao-properly-declare-hook-theme-signature.patch,/project/tao,patch,2012-01-31 23:23:00+00:00,,https://www.drupal.org/node/1423556
+barraponto,Skip to main content links in core themes,,/project/tao,issue,2012-02-15 12:50:00+00:00,,https://www.drupal.org/node/1440932
+barraponto,Provide basic form styles,,/project/xmas,issue,2011-04-27 15:15:00+00:00,,https://www.drupal.org/node/1140062
+barraponto,"On import, views contextual filter title override is assumed to be enabled.",,/project/views,issue,2012-01-04 14:19:00+00:00,,https://www.drupal.org/node/1393752
+barraponto,Support for tabs,,/project/xmas,issue,2011-04-27 14:06:00+00:00,,https://www.drupal.org/node/1139976
+barraponto,Theme the admin tables,,/project/xmas,issue,2011-04-27 14:46:00+00:00,,https://www.drupal.org/node/1140012
+barraponto,Theme the byline,,/project/xmas,issue,2011-04-27 15:10:00+00:00,,https://www.drupal.org/node/1140050
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-11-29 01:31:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/213dbdb,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-11-25 01:43:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/82a84ee,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-11-24 15:11:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/2778025,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-11-18 02:32:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/7a2704b,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-11-18 02:27:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/b3e1b78,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-11-18 02:27:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/857c3b5,
+barraponto,"Using translate=""languages"" doesn't work",,/project/drush_make,issue,2011-02-18 00:14:00+00:00,,https://www.drupal.org/node/1065324
+barraponto,Template is overriden,,/project/newsletter,issue,2011-12-05 20:53:00+00:00,,https://www.drupal.org/node/1361830
+barraponto,Empty views shouldn't return anything in views_embed_view(),,/project/views,issue,2012-01-04 15:51:00+00:00,,https://www.drupal.org/node/1393872
+barraponto,,https://www.drupal.org/files/1393872-views-empty-views-shouldnt-print-on-views-embed-view-1.patch,/project/views,patch,2012-01-04 15:53:00+00:00,,https://www.drupal.org/node/1393872
+barraponto,Node divs have margin and padding reset,,/project/panels,issue,2012-01-04 14:44:00+00:00,,https://www.drupal.org/node/1393782
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-11-18 02:26:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/ed3ac38,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-11-12 12:43:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/38869d7,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-11-12 12:39:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/4dc13bc,
+barraponto,,https://www.drupal.org/files/1393782-panels-node-divs-margin-and-paddin-are-reset.patch,/project/panels,patch,2012-01-04 14:45:00+00:00,,https://www.drupal.org/node/1393782
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-11-12 02:23:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/a76c182,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-11-12 02:21:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/976dea5,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-11-12 02:15:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/609b1b0,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-11-12 02:13:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/54a8239,
+barraponto,"Clean up master branch, create branch 6.x-1.x",,/project/nodeformcols,issue,2012-01-06 12:23:00+00:00,,https://www.drupal.org/node/1396274
+barraponto,Do a Barrel Roll!,,/project/projectapplications,issue,2011-11-09 02:33:00+00:00,,https://www.drupal.org/node/1336136
+barraponto,,https://www.drupal.org/files/1097278-node-variants-print-menu-title-as-page-title-8.patch,/project/ctools,patch,2012-01-04 13:17:00+00:00,,https://www.drupal.org/node/1097278
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-11-12 01:59:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/42b927f,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-11-11 23:23:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/5afb675,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-11-11 02:58:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/c41df84,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-11-10 13:55:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/5e43f66,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-11-10 13:31:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/f3535dd,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-10-26 18:46:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/42f8ef8,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-10-26 18:42:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/39ca357,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-10-26 04:09:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/51c981c,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-10-26 02:54:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/a2bc6fb,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-10-26 02:43:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/6fa9085,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-10-26 02:41:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/8af01cf,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-10-26 02:40:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/94d9c05,
+barraponto,,https://www.drupal.org/files/issues/zen-document-navigation-region-1258280-1.patch,/project/zen,patch,2011-09-05 05:58:00+00:00,,https://www.drupal.org/node/1258280
+barraponto,expandPrefix element setting is declared twice,,/project/jquery_expander,issue,2011-09-17 19:38:00+00:00,,https://www.drupal.org/node/1282612
+barraponto,,https://www.drupal.org/files/issues/1282612-jquery_expander-expandPrefix-declared-twice-1.patch,/project/jquery_expander,patch,2011-09-17 19:41:00+00:00,,https://www.drupal.org/node/1282612
+barraponto,Settings must be declared in hook_field_formatter_info,,/project/jquery_expander,issue,2011-09-17 19:43:00+00:00,,https://www.drupal.org/node/1282614
+barraponto,,https://www.drupal.org/files/issues/1282614-jquery_expander-settings-must-be-declared-1.patch,/project/jquery_expander,patch,2011-09-17 20:05:00+00:00,,https://www.drupal.org/node/1282614
+barraponto,,https://www.drupal.org/files/issues/1280188-jquery_expander-control-the-slice-point-2.patch,/project/jquery_expander,patch,2011-09-17 20:12:00+00:00,,https://www.drupal.org/node/1280188
+barraponto,,https://www.drupal.org/files/357331-duplicate-warnings-on-node-save-8_1.patch,/project/primary_term,patch,2011-10-21 12:11:00+00:00,,https://www.drupal.org/node/357331
+barraponto,,https://www.drupal.org/files/issues/1280188-jquery_expander-control-the-slice-point-5.patch,/project/jquery_expander,patch,2011-09-17 20:51:00+00:00,,https://www.drupal.org/node/1280188
+barraponto,Exposed forms don't work at all: secure_input() is looking for parameters in the wrong place,,/project/openlayers_proximity,issue,2011-08-22 05:20:00+00:00,,https://www.drupal.org/node/1256004
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-10-26 00:09:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/51c3d05,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-10-26 00:08:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/87172e9,
+barraponto,,https://www.drupal.org/files/issues/1024830-nodeformcols-hide-the-hidden-fields-5.patch,/project/nodeformcols,patch,2011-09-22 01:34:00+00:00,,https://www.drupal.org/node/1024830
+barraponto,,https://www.drupal.org/files/1256004-openlayers_proximity-exposed-forms-1.patch,/project/openlayers_proximity,patch,2011-10-26 21:32:00+00:00,,https://www.drupal.org/node/1256004
+barraponto,,https://www.drupal.org/files/issues/zen-936580.patch,/project/zen,patch,2010-12-01 14:02:00+00:00,,https://www.drupal.org/node/936580
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-10-25 16:47:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/ff4e40d,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-10-25 16:24:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/5cfbfa2,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-10-25 12:43:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/9256681,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-10-24 23:01:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/3908ed7,
+barraponto,,https://www.drupal.org/files/issues/menu-no-main-links-1021064-9_0.patch,/project/drupal,patch,2011-05-05 17:47:00+00:00,,https://www.drupal.org/node/1021064
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-10-23 14:19:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/77c732d,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-10-23 14:11:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/202cd2b,
+barraponto,,https://www.drupal.org/files/issues/menu-no-main-links-1021064-9_0_0.patch,/project/drupal,patch,2011-05-05 18:16:00+00:00,,https://www.drupal.org/node/1021064
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-10-23 14:11:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/ef479c5,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-10-23 13:54:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/e9f525b,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-10-17 14:15:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/5f33a95,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-10-17 14:13:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/6e747ed,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-10-17 13:10:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/8c8d7b5,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-10-08 14:47:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/b46a00f,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-10-07 19:06:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/4903e9a,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-10-07 06:01:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/446430f,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-10-07 05:44:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/2e4a454,
+barraponto,,,/sandbox/barraponto/1140004,commit,2010-10-07 03:03:00+00:00,http://drupalcode.org/sandbox/barraponto/1140004.git/commit/8fa88b8,
+barraponto,Declare text colors (conflicts with Seven theme),,/project/better_messages,issue,2011-08-15 21:38:00+00:00,,https://www.drupal.org/node/1250264
+barraponto,,https://www.drupal.org/files/issues/better-messages-declare-colors.patch,/project/better_messages,patch,2011-08-15 21:42:00+00:00,,https://www.drupal.org/node/1250264
+barraponto,,https://www.drupal.org/files/issues/1250264-better-messages-declare-colors-2.patch,/project/better_messages,patch,2011-08-15 22:01:00+00:00,,https://www.drupal.org/node/1250264
+barraponto,Submitted information is always printed,,/project/tao,issue,2011-08-26 13:02:00+00:00,,https://www.drupal.org/node/1260954
+barraponto,,https://www.drupal.org/files/issues/932744-tao-hide-title-if-page-6.patch,/project/tao,patch,2011-08-26 13:26:00+00:00,,https://www.drupal.org/node/932744
+barraponto,IFA binds all textareas by default causing bugs on Views UI and Panels,,/project/imagefield_assist,issue,2009-10-29 18:59:00+00:00,,https://www.drupal.org/node/618310
+barraponto,"Change default Pager ID to 1, avoid recurring conflicts",,/project/views,issue,2011-08-05 03:28:00+00:00,,https://www.drupal.org/node/1240116
+barraponto,,https://www.drupal.org/files/issues/form_build_id-262906-13.patch,/project/drupal,patch,2011-08-08 20:03:00+00:00,,https://www.drupal.org/node/262906
+barraponto,Files loaded when the install profile is run,,/project/drupal,issue,2011-07-28 17:22:00+00:00,,https://www.drupal.org/node/1232714
+barraponto,,https://www.drupal.org/files/issues/zen-skip-link-template-1154358-2_0.patch,/project/zen,patch,2011-05-12 00:42:00+00:00,,https://www.drupal.org/node/1154358
+barraponto,Typography for the footer text,,/project/xmas,issue,2011-04-27 15:14:00+00:00,,https://www.drupal.org/node/1140058
+barraponto,Openid_selector.install crashes on install profiles,,/project/openid_selector,issue,2011-02-17 06:59:00+00:00,,https://www.drupal.org/node/1064298
+barraponto,Revisions are being misatributted,,/project/issues/webmasters,issue,2011-07-21 03:33:00+00:00,,https://www.drupal.org/node/1225142
+barraponto,,https://www.drupal.org/files/issues/screenshot_0_156.png,/project/issues/webmasters,patch,2011-07-25 18:16:00+00:00,,https://www.drupal.org/node/1225142
+barraponto,,https://www.drupal.org/files/issues/openid_selector-1064298.patch,/project/openid_selector,patch,2011-02-17 08:21:00+00:00,,https://www.drupal.org/node/1064298
+barraponto,,https://www.drupal.org/files/issues/openid_selector-1064298_0.patch,/project/openid_selector,patch,2011-02-17 08:55:00+00:00,,https://www.drupal.org/node/1064298
+barraponto,comment synchronization,,/project/intensedebate,issue,2010-12-10 11:28:00+00:00,,https://www.drupal.org/node/994514
+barraponto,,https://www.drupal.org/files/issues/zen-980002.patch,/project/zen,patch,2010-12-08 01:08:00+00:00,,https://www.drupal.org/node/980002
+barraponto,,https://www.drupal.org/files/issues/die-phptemplate-prefix-die-422116-33.patch,/project/issues/documentation,patch,2011-02-23 18:04:00+00:00,,https://www.drupal.org/node/422116
+barraponto,barraponto [barraponto],,/project/cvsapplications,issue,2010-11-12 12:59:00+00:00,,https://www.drupal.org/node/969842
+barraponto,,https://www.drupal.org/files/issues/compass-drupal-plugin-ff252538aeb1.gz,/project/cvsapplications,patch,2010-11-12 13:45:00+00:00,,https://www.drupal.org/node/969842
+barraponto,,https://www.drupal.org/files/issues/barraponto-drupal-xmas-theme-1.0-beta2-0-ga3cec8b.tar_.gz,/project/cvsapplications,patch,2011-01-13 02:50:00+00:00,,https://www.drupal.org/node/969842
+barraponto,,https://www.drupal.org/files/issues/zen-936580_0.patch,/project/zen,patch,2010-12-18 23:50:00+00:00,,https://www.drupal.org/node/256802
+barraponto,,https://www.drupal.org/files/issues/zen-929630.patch,/project/zen,patch,2010-12-01 13:35:00+00:00,,https://www.drupal.org/node/929630
+barraponto,import countries generates errors,,/project/postal,issue,2011-01-15 00:47:00+00:00,,https://www.drupal.org/node/1027646
+barraponto,Detect MYSQL path on LAMPP configurations,,/project/drush,issue,2011-01-12 18:53:00+00:00,,https://www.drupal.org/node/1024618
+barraponto,Take user as an argument and show signed up nodes,,/project/signup,issue,2011-03-30 23:07:00+00:00,,https://www.drupal.org/node/1111320
+barraponto,,https://www.drupal.org/files/issues/signup-user-signups-arguments-1111320-1_1.patch,/project/signup,patch,2011-03-30 23:15:00+00:00,,https://www.drupal.org/node/1111320
+barraponto,,https://www.drupal.org/files/issues/postal-1027646.patch,/project/postal,patch,2011-01-15 11:51:00+00:00,,https://www.drupal.org/node/1027646
+barraponto,,https://www.drupal.org/files/issues/zen-rtl-block-links-1017062-2.patch,/project/zen,patch,2011-02-22 13:37:00+00:00,,https://www.drupal.org/node/1017062
+barraponto,Duplicates Wordpress Import module,,/project/wordpress_migrate,issue,2010-12-11 02:29:00+00:00,,https://www.drupal.org/node/995252
+barraponto,Resolve redundance of modules already declared on included makefiles,,/project/drush_make,issue,2011-01-11 11:11:00+00:00,,https://www.drupal.org/node/1022732
+barraponto,'Undefined index' notices when adding new fields.,,/project/geocode,issue,2011-01-14 20:13:00+00:00,,https://www.drupal.org/node/1027400
+barraponto,Postal field emits undefined index notice,,/project/postal,issue,2011-01-14 20:32:00+00:00,,https://www.drupal.org/node/1027428
+barraponto,Postal.form.inc throws a lot of notices,,/project/postal,issue,2011-01-15 20:08:00+00:00,,https://www.drupal.org/node/1028234
+barraponto,Congratulations,,/project/media_universalsubtitles,issue,2011-01-21 00:03:00+00:00,,https://www.drupal.org/node/1034594
+barraponto,Context support,,/project/jqp,issue,2010-09-10 14:28:00+00:00,,https://www.drupal.org/node/907652
+barraponto,Can't update box content via UI,,/project/boxes,issue,2010-08-04 16:04:00+00:00,,https://www.drupal.org/node/873776
+barraponto,,https://www.drupal.org/files/issues/postal-1028234.patch,/project/postal,patch,2011-01-15 21:20:00+00:00,,https://www.drupal.org/node/1028234
+barraponto,,https://www.drupal.org/files/issues/postal-1028234-3.patch,/project/postal,patch,2011-01-15 21:48:00+00:00,,https://www.drupal.org/node/1028234
+barraponto,Skinr prints classes when feature is disabled,,/project/skinr,issue,2010-03-18 23:59:00+00:00,,https://www.drupal.org/node/746670
+barraponto,GPL compatibilty,,/project/cloud_zoom,issue,2010-06-04 07:14:00+00:00,,https://www.drupal.org/node/817900
+barraponto,Path detection won't work on aliases,,/project/custom_breadcrumbs,issue,2010-08-03 13:14:00+00:00,,https://www.drupal.org/node/872606
+barraponto,text size limit breaks php code.,,/project/custom_breadcrumbs,issue,2009-12-08 22:10:00+00:00,,https://www.drupal.org/node/654766
+barraponto,RTL support,,/project/manager,issue,2010-08-09 19:26:00+00:00,,https://www.drupal.org/node/878080
+barraponto,Support for non-standard node permissions (faq),,/project/manager,issue,2010-06-14 20:04:00+00:00,,https://www.drupal.org/node/827274
+barraponto,,https://www.drupal.org/files/issues/827274.patch,/project/manager,patch,2010-06-14 20:09:00+00:00,,https://www.drupal.org/node/827274
+barraponto,Drupal 7 commands causing confusion,,/project/drush,issue,2010-08-05 15:24:00+00:00,,https://www.drupal.org/node/874830
+barraponto,,https://www.drupal.org/files/issues/managers_bar-rtl.png,/project/manager,patch,2010-08-09 19:51:00+00:00,,https://www.drupal.org/node/878080
+barraponto,dump sites/default/files in a tgz file,,/project/dumper,issue,2010-01-15 19:11:00+00:00,,https://www.drupal.org/node/686006
